@@ -1,5 +1,5 @@
 AC_INIT([mate-backgrounds],
-	[2011.11.16],
+	[2011.12.01],
 	[https://github.com/perberos/mate-desktop-environment])
 m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])])
 AM_INIT_AUTOMAKE
