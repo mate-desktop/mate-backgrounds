@@ -1,5 +1,5 @@
 pkgname=mate-backgrounds
-pkgver=2011.12.01
+pkgver=1.1.0
 pkgrel=1
 pkgdesc="Background images and data for MATE"
 arch=('any')
