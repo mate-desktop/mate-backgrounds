@@ -4,14 +4,15 @@ pkgrel=1
 pkgdesc="Background images and data for MATE"
 arch=('any')
 license=('GPL')
-url="http://matsusoft.com.ar/projects/mate"
+url="http://matsusoft.com.ar/projects/mate/"
 makedepends=('intltool' 'mate-common')
 groups=('mate')
-source=(http://sourceforge.net/projects/matede/files/${pkgver}/${pkgname}.tar.gz/download)
-sha256sums=('0e9fdb284c630d92374dec6e3ac24bd5f0f910dabbf8065b79920ae26bc9ab9c')
+source=()
+sha256sums=()
+
 
 build() {
-	cd "${srcdir}/${pkgname}"
+	cd "${srcdir}/../../../"
 
 	./autogen.sh \
 		--prefix=/usr \
@@ -22,7 +23,7 @@ build() {
 }
 
 package() {
-	cd "$srcdir/$pkgname"
+	cd "${srcdir}/../../../"
 
 	make DESTDIR="$pkgdir" install || return 1
 }
