@@ -1,7 +1,8 @@
 mate-backgrounds
 =================
 
-Background images and data for MATE
+Background images and data for MATE. The MATE backgrounds are a fork of
+GNOME backgrounds.
 
 * What is it ?
 
@@ -9,11 +10,11 @@ Background images and data for MATE
 
 * Home Page
 
-  https://matsusoft.com.ar/projects/mate/
+  http://www.mate-desktop.org/
 
 * Repository
 
-  https://github.com/perberos/mate-backgrounds/
+  https://github.com/mate-desktop/mate-backgrounds/
 
 * Licensing
 
