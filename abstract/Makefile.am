@@ -6,8 +6,7 @@ background_DATA = \
 	Gulp.png \
 	Silk.png \
 	Spring.png \
-	Waves.png \
-	stripes.jpg
+	Waves.png
 
 
 metadata_in_files = mate-abstract.xml.in

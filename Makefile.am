@@ -1,4 +1,4 @@
-SUBDIRS = abstract nature po
+SUBDIRS = abstract desktop nature po
 
 dist-hook:
 	@if test -d "$(srcdir)/.git"; \

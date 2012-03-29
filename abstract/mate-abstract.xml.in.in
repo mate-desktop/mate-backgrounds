@@ -47,11 +47,4 @@
 		<pcolor>#1166AA</pcolor>
 		<options>zoom</options>
 	</wallpaper>
-	<wallpaper deleted="false">
-		<_name>Stripes</_name>
-		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/stripes.jpg</filename>
-		<shade_type>solid</shade_type>
-		<pcolor>#234C88</pcolor>
-		<options>zoom</options>
-	</wallpaper>
 </wallpapers>
