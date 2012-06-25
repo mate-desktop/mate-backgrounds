@@ -2,6 +2,14 @@
 <!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
+		<_name>No Desktop Background</_name>
+		<filename>(none)</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#27587E</pcolor>
+		<scolor>#627F5A</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
 		<_name>Green Traditional</_name>
 		<filename>@datadir@/pixmaps/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
 		<options>zoom</options>
@@ -10,5 +18,8 @@
 		<_name>Stripes</_name>
 		<filename>@datadir@/pixmaps/backgrounds/mate/desktop/Stripes.png</filename>
 		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#5891BC</pcolor>
+		<scolor>#44A52A</scolor>
 	</wallpaper>
 </wallpapers>
