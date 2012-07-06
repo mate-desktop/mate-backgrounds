@@ -6,45 +6,50 @@
 		<_name>Arc</_name>
 		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
 		<options>zoom</options>
-		<shade_type>solid</shade_type>
-		<pcolor>#234C88</pcolor>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#27587E</pcolor>
+		<scolor>#627F5A</scolor>
 		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Flow</_name>
 		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Flow.png</filename>
 		<options>zoom</options>
-		<shade_type>solid</shade_type>
-		<pcolor>#415b69</pcolor>
+		<shade_type>horizontal-gradient</shade_type>
+		<pcolor>#27587E</pcolor>
+		<scolor>#627F5A</scolor>
 		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Gulp</_name>
 		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Gulp.png</filename>
-		<shade_type>solid</shade_type>
-		<pcolor>#3a5990</pcolor>
+		<shade_type>horizontal-gradient</shade_type>
+		<pcolor>#627F5A</pcolor>
+		<scolor>#27587E</scolor>
 		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Silk</_name>
 		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Silk.png</filename>
 		<shade_type>horizontal-gradient</shade_type>
-		<pcolor>#FF920E</pcolor>
-		<scolor>#EABC12</scolor>
+		<pcolor>#27587E</pcolor>
+		<scolor>#627F5A</scolor>
 		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Spring</_name>
 		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Spring.png</filename>
-		<shade_type>solid</shade_type>
-		<pcolor>#66BA00</pcolor>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#27587E</pcolor>
+		<scolor>#627F5A</scolor>
 		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Waves</_name>
 		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Waves.png</filename>
-		<shade_type>solid</shade_type>
-		<pcolor>#1166AA</pcolor>
+		<shade_type>horizontal-gradient</shade_type>
+		<pcolor>#27587E</pcolor>
+		<scolor>#627F5A</scolor>
 		<options>zoom</options>
 	</wallpaper>
 </wallpapers>
