@@ -1,93 +1,111 @@
-# translation of mate-backgrounds.HEAD.po to Hindi
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
-#
+# 
+# Translators:
 # G Karunakar <karunakar@indlinux.org>, 2006.
 # Rajesh Ranjan <rranjan@redhat.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds.HEAD\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-07 12:41+0100\n"
-"PO-Revision-Date: 2009-03-13 17:01+0530\n"
-"Last-Translator: Rajesh Ranjan <rranjan@redhat.com>\n"
-"Language-Team: Hindi <hindi.sf.net>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-07-07 12:01+0200\n"
+"PO-Revision-Date: 2012-07-07 10:02+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: Hindi (http://www.transifex.com/projects/p/MATE/language/hi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
-"\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: ../abstract/mate-abstract.xml.in.in.h:1
+#. From http://code.google.com/p/gnome-colors/
+#: ../abstract/mate-abstract.xml.in.in.h:2
+msgid "Arc"
+msgstr ""
+
+#: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
 msgstr "प्रवाह"
 
-#: ../abstract/mate-abstract.xml.in.in.h:2
+#: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
 msgstr "निवाला"
 
-#: ../abstract/mate-abstract.xml.in.in.h:3
+#: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
 msgstr "रेशमी"
 
-#: ../abstract/mate-abstract.xml.in.in.h:4
+#: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
 msgstr "वसंत"
 
-#: ../abstract/mate-abstract.xml.in.in.h:5
+#: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
 msgstr "तरंग"
 
-#: ../nature/mate-nature.xml.in.in.h:1
-msgid "Aqua"
-msgstr "जलीय"
+#: ../desktop/mate-desktop.xml.in.in.h:1
+msgid "No Desktop Background"
+msgstr ""
 
-#: ../nature/mate-nature.xml.in.in.h:2
-msgid "Blinds"
-msgstr "सूरदास"
+#: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Green Traditional"
+msgstr ""
 
-#: ../nature/mate-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "बालुका स्तूप"
+#: ../desktop/mate-desktop.xml.in.in.h:3
+msgid "Stripes"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. Translators: This is the name of a desktop background image that shows an
+#. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/mate-nature.xml.in.in.h:6
+#: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
 msgstr "ताजा फूल"
 
-#: ../nature/mate-nature.xml.in.in.h:7
-msgid "Garden"
-msgstr "फुलवारी"
-
-#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. Translators: This is the name of a desktop background image that shows a
+#. green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/mate-nature.xml.in.in.h:10
+#: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
 msgstr "हरा बाग"
+
+#: ../nature/mate-nature.xml.in.in.h:7
+msgid "Aqua"
+msgstr "जलीय"
+
+#: ../nature/mate-nature.xml.in.in.h:8
+msgid "Dune"
+msgstr "बालुका स्तूप"
+
+#: ../nature/mate-nature.xml.in.in.h:9
+msgid "Storm"
+msgstr "तूफानी"
+
+#: ../nature/mate-nature.xml.in.in.h:10
+msgid "Two Wings"
+msgstr "द्विपंखी"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
 msgstr "लेडी बर्ड"
 
 #: ../nature/mate-nature.xml.in.in.h:12
+msgid "Blinds"
+msgstr "सूरदास"
+
+#: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
 msgstr "बर्षा जल"
 
-#: ../nature/mate-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "तूफानी"
-
 #: ../nature/mate-nature.xml.in.in.h:14
-msgid "Two Wings"
-msgstr "द्विपंखी"
-
-#: ../nature/mate-nature.xml.in.in.h:15
-msgid "Wood"
-msgstr "काष्ठ"
-
-#: ../nature/mate-nature.xml.in.in.h:16
 msgid "Yellow Flower"
 msgstr "पीला फूल"
 
+#: ../nature/mate-nature.xml.in.in.h:15
+msgid "Garden"
+msgstr "फुलवारी"
+
+#: ../nature/mate-nature.xml.in.in.h:16
+msgid "Wood"
+msgstr "काष्ठ"

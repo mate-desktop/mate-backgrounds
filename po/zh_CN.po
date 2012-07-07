@@ -1,88 +1,110 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Funda Wang <fundawang@linux.net.cn>, 2004.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-22 16:54+0000\n"
-"PO-Revision-Date: 2006-01-30 06:37+0800\n"
-"Last-Translator: Funda Wang <fundawang@linux.net.cn>\n"
-"Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-07-07 12:01+0200\n"
+"PO-Revision-Date: 2012-07-07 10:02+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
-#: ../abstract/mate-abstract.xml.in.in.h:1
+#. From http://code.google.com/p/gnome-colors/
+#: ../abstract/mate-abstract.xml.in.in.h:2
+msgid "Arc"
+msgstr ""
+
+#: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
 msgstr "谜"
 
-#: ../abstract/mate-abstract.xml.in.in.h:2
+#: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
 msgstr "茫"
 
-#: ../abstract/mate-abstract.xml.in.in.h:3
+#: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
 msgstr "丝"
 
-#: ../abstract/mate-abstract.xml.in.in.h:4
+#: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
 msgstr "涌"
 
-#: ../abstract/mate-abstract.xml.in.in.h:5
+#: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
 msgstr "影"
 
-#: ../nature/mate-nature.xml.in.in.h:1
-msgid "Aqua"
-msgstr "激起"
+#: ../desktop/mate-desktop.xml.in.in.h:1
+msgid "No Desktop Background"
+msgstr ""
 
-#: ../nature/mate-nature.xml.in.in.h:2
-msgid "Blinds"
-msgstr "絮语"
+#: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Green Traditional"
+msgstr ""
 
-#: ../nature/mate-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "盼望"
+#: ../desktop/mate-desktop.xml.in.in.h:3
+msgid "Stripes"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. Translators: This is the name of a desktop background image that shows an
+#. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/mate-nature.xml.in.in.h:6
+#: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
 msgstr "鲜花"
 
-#: ../nature/mate-nature.xml.in.in.h:7
-msgid "Garden"
-msgstr "绽放"
-
-#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. Translators: This is the name of a desktop background image that shows a
+#. green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/mate-nature.xml.in.in.h:10
+#: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
 msgstr "生机"
+
+#: ../nature/mate-nature.xml.in.in.h:7
+msgid "Aqua"
+msgstr "激起"
+
+#: ../nature/mate-nature.xml.in.in.h:8
+msgid "Dune"
+msgstr "盼望"
+
+#: ../nature/mate-nature.xml.in.in.h:9
+msgid "Storm"
+msgstr "阴天"
+
+#: ../nature/mate-nature.xml.in.in.h:10
+msgid "Two Wings"
+msgstr "远方"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
 msgstr "安然"
 
 #: ../nature/mate-nature.xml.in.in.h:12
+msgid "Blinds"
+msgstr "絮语"
+
+#: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
 msgstr "晨露"
 
-#: ../nature/mate-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "阴天"
-
 #: ../nature/mate-nature.xml.in.in.h:14
-msgid "Two Wings"
-msgstr "远方"
-
-#: ../nature/mate-nature.xml.in.in.h:15
-msgid "Wood"
-msgstr "木理"
-
-#: ../nature/mate-nature.xml.in.in.h:16
 msgid "Yellow Flower"
 msgstr "黄花"
+
+#: ../nature/mate-nature.xml.in.in.h:15
+msgid "Garden"
+msgstr "绽放"
+
+#: ../nature/mate-nature.xml.in.in.h:16
+msgid "Wood"
+msgstr "木理"

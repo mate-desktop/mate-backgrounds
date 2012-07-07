@@ -1,90 +1,110 @@
-# Aragonese translation for mate-backgrounds.
-# Copyright (C) 2010 mate-backgrounds's COPYRIGHT HOLDER
-# This file is distributed under the same license as the mate-backgrounds package.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Daniel Martinez Cucalon <entaltoaragon@gmail.com>, 2010.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=mate-"
-"backgrounds&component=general\n"
-"POT-Creation-Date: 2010-07-20 08:13+0000\n"
-"PO-Revision-Date: 2010-07-20 08:13+0000\n"
-"Last-Translator: Daniel Martinez Cucalon <entaltoaragon@gmail.com>\n"
-"Language-Team: Aragonese <softaragones@googlegroups.com>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-07-07 12:01+0200\n"
+"PO-Revision-Date: 2012-07-07 10:02+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: an\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: ../abstract/mate-abstract.xml.in.in.h:1
+#. From http://code.google.com/p/gnome-colors/
+#: ../abstract/mate-abstract.xml.in.in.h:2
+msgid "Arc"
+msgstr ""
+
+#: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
 msgstr "Fluixo"
 
-#: ../abstract/mate-abstract.xml.in.in.h:2
+#: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
 msgstr "Trago"
 
-#: ../abstract/mate-abstract.xml.in.in.h:3
+#: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
 msgstr "Seda"
 
-#: ../abstract/mate-abstract.xml.in.in.h:4
+#: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
 msgstr "Primavera"
 
-#: ../abstract/mate-abstract.xml.in.in.h:5
+#: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
 msgstr "Onda"
 
-#: ../nature/mate-nature.xml.in.in.h:1
-msgid "Aqua"
-msgstr "Augua"
+#: ../desktop/mate-desktop.xml.in.in.h:1
+msgid "No Desktop Background"
+msgstr ""
 
-#: ../nature/mate-nature.xml.in.in.h:2
-msgid "Blinds"
-msgstr "Cortinas"
+#: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Green Traditional"
+msgstr ""
 
-#: ../nature/mate-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "Duna"
+#: ../desktop/mate-desktop.xml.in.in.h:3
+msgid "Stripes"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. Translators: This is the name of a desktop background image that shows an
+#. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/mate-nature.xml.in.in.h:6
+#: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
 msgstr "Flor fresca"
 
-#: ../nature/mate-nature.xml.in.in.h:7
-msgid "Garden"
-msgstr "Chardín"
-
-#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. Translators: This is the name of a desktop background image that shows a
+#. green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/mate-nature.xml.in.in.h:10
+#: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
 msgstr "Pradera verda"
+
+#: ../nature/mate-nature.xml.in.in.h:7
+msgid "Aqua"
+msgstr "Augua"
+
+#: ../nature/mate-nature.xml.in.in.h:8
+msgid "Dune"
+msgstr "Duna"
+
+#: ../nature/mate-nature.xml.in.in.h:9
+msgid "Storm"
+msgstr "Tronada"
+
+#: ../nature/mate-nature.xml.in.in.h:10
+msgid "Two Wings"
+msgstr "Dos alas"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
 msgstr "Cuqueta de Dios"
 
 #: ../nature/mate-nature.xml.in.in.h:12
+msgid "Blinds"
+msgstr "Cortinas"
+
+#: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
 msgstr "Chislas de plevia"
 
-#: ../nature/mate-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "Tronada"
-
 #: ../nature/mate-nature.xml.in.in.h:14
-msgid "Two Wings"
-msgstr "Dos alas"
-
-#: ../nature/mate-nature.xml.in.in.h:15
-msgid "Wood"
-msgstr "Fusta"
-
-#: ../nature/mate-nature.xml.in.in.h:16
 msgid "Yellow Flower"
 msgstr "Flor amariella"
 
+#: ../nature/mate-nature.xml.in.in.h:15
+msgid "Garden"
+msgstr "Chardín"
+
+#: ../nature/mate-nature.xml.in.in.h:16
+msgid "Wood"
+msgstr "Fusta"

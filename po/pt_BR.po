@@ -1,145 +1,114 @@
-# Brazilian Portuguese translation of mate-backgrounds.
-# Copyright (C) 2005 Free Software Foundation, Inc.
-# This file is distributed under the same license as the mate-backgrounds package.
-# Raphael Higino <raphaelh@uai.com.br>, 2005.
-# Evandro Fernandes Giovanini <evandrofg@ig.com.br>, 2006.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Alexandre Folle de Menezes <afmenez@terra.com.br>, 2006.
-# Og Maciel <ogmaciel@gnome.org>, 2008
-#
+# Evandro Fernandes Giovanini <evandrofg@ig.com.br>, 2006.
+# Fabrizzio Soares <fabrizzio.soares@gmail.com>, 2012.
+# Og Maciel <ogmaciel@gnome.org>, 2008.
+# Raphael Higino <raphaelh@uai.com.br>, 2005.
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-31 19:49-0400\n"
-"PO-Revision-Date: 2009-08-30 19:43-0300\n"
-"Last-Translator: Og Maciel <ogmaciel@gnome.org>\n"
-"Language-Team: Brazilian Portuguese <mate-pt_br-list@gnome.org>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-07-07 12:01+0200\n"
+"PO-Revision-Date: 2012-07-07 10:02+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/MATE/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
-#: ../abstract/mate-abstract.xml.in.in.h:1
+#. From http://code.google.com/p/gnome-colors/
+#: ../abstract/mate-abstract.xml.in.in.h:2
+msgid "Arc"
+msgstr "Arcos"
+
+#: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
 msgstr "Fluxo"
 
-#: ../abstract/mate-abstract.xml.in.in.h:2
+#: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
 msgstr "Gole"
 
-#: ../abstract/mate-abstract.xml.in.in.h:3
+#: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
 msgstr "Seda"
 
-#: ../abstract/mate-abstract.xml.in.in.h:4
+#: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
 msgstr "Primavera"
 
-#: ../abstract/mate-abstract.xml.in.in.h:5
+#: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
 msgstr "Ondas"
 
-#: ../nature/mate-nature.xml.in.in.h:1
-msgid "Aqua"
-msgstr "Aqua"
+#: ../desktop/mate-desktop.xml.in.in.h:1
+msgid "No Desktop Background"
+msgstr ""
 
-#: ../nature/mate-nature.xml.in.in.h:2
-msgid "Blinds"
-msgstr "Persianas"
+#: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Green Traditional"
+msgstr ""
 
-#: ../nature/mate-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "Duna"
+#: ../desktop/mate-desktop.xml.in.in.h:3
+msgid "Stripes"
+msgstr "Listras"
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. Translators: This is the name of a desktop background image that shows an
+#. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/mate-nature.xml.in.in.h:6
+#: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
 msgstr "Flor fresca"
 
-#: ../nature/mate-nature.xml.in.in.h:7
-msgid "Garden"
-msgstr "Jardim"
-
-#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. Translators: This is the name of a desktop background image that shows a
+#. green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/mate-nature.xml.in.in.h:10
+#: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
 msgstr "Planície verde"
+
+#: ../nature/mate-nature.xml.in.in.h:7
+msgid "Aqua"
+msgstr "Aqua"
+
+#: ../nature/mate-nature.xml.in.in.h:8
+msgid "Dune"
+msgstr "Duna"
+
+#: ../nature/mate-nature.xml.in.in.h:9
+msgid "Storm"
+msgstr "Tempestade"
+
+#: ../nature/mate-nature.xml.in.in.h:10
+msgid "Two Wings"
+msgstr "Duas asas"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
 msgstr "Passarinha"
 
 #: ../nature/mate-nature.xml.in.in.h:12
+msgid "Blinds"
+msgstr "Persianas"
+
+#: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
 msgstr "Gotas de chuva"
 
-#: ../nature/mate-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "Tempestade"
-
 #: ../nature/mate-nature.xml.in.in.h:14
-msgid "Two Wings"
-msgstr "Duas asas"
-
-#: ../nature/mate-nature.xml.in.in.h:15
-msgid "Wood"
-msgstr "Madeira"
-
-#: ../nature/mate-nature.xml.in.in.h:16
 msgid "Yellow Flower"
 msgstr "Flor amarela"
 
-#~ msgid "MATE Curves"
-#~ msgstr "Curvas do MATE"
-#~ msgid "Boats Pattern"
-#~ msgstr "Padrão de Barcos"
-#~ msgid "Clouds Pattern"
-#~ msgstr "Padrão de Nuvens"
-#~ msgid "Stars Pattern"
-#~ msgstr "Padrão de Estrelas"
-#~ msgid "Ellipses (Translucent)"
-#~ msgstr "Elipses (Translúcido)"
-#~ msgid "Tentacles (Translucent)"
-#~ msgstr "Tentáculos (Translúcido)"
-#~ msgid "Due (Abstract)"
-#~ msgstr "Duo (Abstrato)"
-#~ msgid "Due Alternate (Abstract)"
-#~ msgstr "Duo Alternativo (Abstrato)"
-#~ msgid "Scie (Abstract)"
-#~ msgstr "Ciência (Abstrato)"
-#~ msgid "Scie Alternate (Abstract)"
-#~ msgstr "Ciência Alternativo (Abstrato)"
-#~ msgid "Aqua Foot (MATE Branded)"
-#~ msgstr "Pé Aqua (Marca do MATE)"
-#~ msgid "Black (MATE Branded)"
-#~ msgstr "Negro (Marca do MATE)"
-#~ msgid "Fraser Island (MATE Branded)"
-#~ msgstr "Ilha Fraser (Marca do MATE)"
-#~ msgid "Hills (MATE Branded)"
-#~ msgstr "Colinas (Marca do MATE)"
-#~ msgid "Red Blurred (MATE Branded)"
-#~ msgstr "Vermelho Manchado (Marca do MATE)"
-#~ msgid "Weird Colors (MATE Branded)"
-#~ msgstr "Cores Estranhas (Marca do MATE)"
-#~ msgid "Alien Artifact (Translucent Tile)"
-#~ msgstr "Artefato Alienígena (Lado a Lado Translúcido)"
-#~ msgid "Cow Spots (Translucent Tile)"
-#~ msgstr "Manchas de Vaca (Lado a Lado Translúcido)"
-#~ msgid "Diamond Tile Pattern (Translucent Tile)"
-#~ msgstr "Padrão de Ladrilhos de Diamantes (Lado a Lado Translúcido)"
-#~ msgid "Greche Pattern (Tile)"
-#~ msgstr "Padrão Grego (Lado a Lado)"
-#~ msgid "Leather (Tile)"
-#~ msgstr "Couro (Lado a Lado)"
-#~ msgid "Stone Wall Pattern (Tile)"
-#~ msgstr "Padrão de Parede de Pedras (Lado a Lado)"
-#~ msgid "Grid (Translucent)"
-#~ msgstr "Grade (Translúcido)"
-#~ msgid "Masle (Translucent)"
-#~ msgstr "Masle (Translúcido)"
-#~ msgid "Rectangles (Translucent)"
-#~ msgstr "Retângulos (Translúcido)"
-#~ msgid "Waves (Translucent)"
-#~ msgstr "Ondas (Translúcido)"
+#: ../nature/mate-nature.xml.in.in.h:15
+msgid "Garden"
+msgstr "Jardim"
 
+#: ../nature/mate-nature.xml.in.in.h:16
+msgid "Wood"
+msgstr "Madeira"

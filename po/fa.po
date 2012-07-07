@@ -1,93 +1,110 @@
-# Persian translation of mate-backgrounds.
-# Copyright (C) 2005 Sharif FarsiWeb, Inc.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Elnaz Sarbar <elnaz@farsiweb.info>, 2005.
-# Meelad Zakaria <meelad@farsiweb.inf>, 2006. 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds HEAD\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-09-03 09:17+0200\n"
-"PO-Revision-Date: 2006-03-03 19:15+0330\n"
-"Last-Translator: Meelad Zakaria <meelad@farsiweb.info>\n"
-"Language-Team: Persian <farsi@lists.sharif.edu>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-07-07 12:01+0200\n"
+"PO-Revision-Date: 2012-07-07 10:02+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the MATE logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/mate-branded.xml.in.in.h:3
-msgid "MATE Curves"
-msgstr "منحنی‌های گنوم"
+#. From http://code.google.com/p/gnome-colors/
+#: ../abstract/mate-abstract.xml.in.in.h:2
+msgid "Arc"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/mate-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "نقش قایق‌ها"
+#: ../abstract/mate-abstract.xml.in.in.h:3
+msgid "Flow"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/mate-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "نقش ابرها"
+#: ../abstract/mate-abstract.xml.in.in.h:4
+msgid "Gulp"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/mate-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "نقش ستاره‌ها"
+#: ../abstract/mate-abstract.xml.in.in.h:5
+msgid "Silk"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/mate-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "سه بیضی (نیمه شفاف)"
+#: ../abstract/mate-abstract.xml.in.in.h:6
+msgid "Spring"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/mate-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "شاخک‌ها (نیمه شفاف)"
+#: ../abstract/mate-abstract.xml.in.in.h:7
+msgid "Waves"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#: ../desktop/mate-desktop.xml.in.in.h:1
+msgid "No Desktop Background"
+msgstr ""
+
+#: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Green Traditional"
+msgstr ""
+
+#: ../desktop/mate-desktop.xml.in.in.h:3
+msgid "Stripes"
+msgstr ""
+
+#. Translators: This is the name of a desktop background image that shows an
+#. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
 msgstr "گل تازه"
 
-#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. Translators: This is the name of a desktop background image that shows a
+#. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
 msgstr "مرتع سرسبز"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
-#. You might want to translate it into the equivalent words of your language
+#: ../nature/mate-nature.xml.in.in.h:7
+msgid "Aqua"
+msgstr ""
+
+#: ../nature/mate-nature.xml.in.in.h:8
+msgid "Dune"
+msgstr ""
+
 #: ../nature/mate-nature.xml.in.in.h:9
-msgid "Open Flower"
-msgstr "گل شکفته"
+msgid "Storm"
+msgstr ""
 
-#~ msgid "Aqua Foot (MATE Branded)"
-#~ msgstr "پای آبی (با علامت گنوم)"
+#: ../nature/mate-nature.xml.in.in.h:10
+msgid "Two Wings"
+msgstr ""
 
-#~ msgid "Fraser Island (MATE Branded)"
-#~ msgstr "جزیره‌ی فرِیزر (با علامت گنوم)"
+#: ../nature/mate-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr ""
 
-#~ msgid "Red Blurred (MATE Branded)"
-#~ msgstr "قرمز محو (با علامت گنوم)"
+#: ../nature/mate-nature.xml.in.in.h:12
+msgid "Blinds"
+msgstr ""
 
-#~ msgid "Weird Colors (MATE Branded)"
-#~ msgstr "رنگ‌های عجیب (با علامت گنوم)"
+#: ../nature/mate-nature.xml.in.in.h:13
+msgid "Rain Drops"
+msgstr ""
 
-#~ msgid "Alien Artifact (Translucent Tile)"
-#~ msgstr "مصنوع فضایی (کاشی نیمه شفاف) "
+#: ../nature/mate-nature.xml.in.in.h:14
+msgid "Yellow Flower"
+msgstr ""
 
-#~ msgid "Cow Spots (Translucent Tile)"
-#~ msgstr "خال گاوی (کاشی نیمه شفاف)"
+#: ../nature/mate-nature.xml.in.in.h:15
+msgid "Garden"
+msgstr ""
 
-#~ msgid "Diamond Tile Pattern (Translucent Tile)"
-#~ msgstr "نقش کاشی لوزی (کاشی نیمه شفاف)"
-
-#~ msgid "Rectangles (Translucent)"
-#~ msgstr "سه مستطیل (نیمه شفاف)"
+#: ../nature/mate-nature.xml.in.in.h:16
+msgid "Wood"
+msgstr ""
