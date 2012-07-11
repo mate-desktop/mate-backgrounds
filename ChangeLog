@@ -1,0 +1,360 @@
+commit 339b946d4712126f526a25be891308e37d207197
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Sat Jul 7 12:06:45 2012 +0200
+
+    sync translations with transifex
+
+ po/af.po          |  128 ++++++++++++++---------------
+ po/an.po          |  108 +++++++++++++++----------
+ po/ar.po          |  109 ++++++++++++++-----------
+ po/as.po          |  123 ++++++++++++++--------------
+ po/ast.po         |  108 ++++++++++++++-----------
+ po/be.po          |  131 +++++++++++++++++++-----------
+ po/bg.po          |  110 ++++++++++++++-----------
+ po/bn.po          |  145 +++++++++++++++------------------
+ po/bn_IN.po       |  112 ++++++++++++++-----------
+ po/ca.po          |  151 +++++++++++++++-------------------
+ po/ca@valencia.po |  150 +++++++++++++++-------------------
+ po/cs.po          |  113 +++++++++++++++-----------
+ po/cy.po          |  181 +++++++++++++++--------------------------
+ po/da.po          |  186 +++++++++++++++---------------------------
+ po/de.po          |  141 +++++++++++++++-----------------
+ po/dz.po          |  154 +++++++++++++++++++----------------
+ po/el.po          |  110 ++++++++++++++-----------
+ po/en_CA.po       |  133 +++++++++++++++++++-----------
+ po/en_GB.po       |  149 +++++++++++++++-------------------
+ po/eo.po          |  106 ++++++++++++++----------
+ po/es.po          |  109 ++++++++++++++-----------
+ po/et.po          |  111 ++++++++++++++-----------
+ po/eu.po          |  108 +++++++++++++++----------
+ po/fa.po          |  141 ++++++++++++++++++--------------
+ po/fi.po          |  190 +++++++++++++++----------------------------
+ po/fr.po          |  131 +++++++++++++++---------------
+ po/fur.po         |  132 +++++++++++++++++++-----------
+ po/fy.po          |  107 ++++++++++++++----------
+ po/ga.po          |  108 +++++++++++++++----------
+ po/gl.po          |  108 ++++++++++++++-----------
+ po/gu.po          |  111 ++++++++++++++-----------
+ po/he.po          |  120 ++++++++++++++-------------
+ po/hi.po          |  108 ++++++++++++++-----------
+ po/hu.po          |  110 ++++++++++++++-----------
+ po/hy.po          |  127 +++++++++++++++--------------
+ po/id.po          |  113 +++++++++++++++-----------
+ po/it.po          |  112 +++++++++++++++----------
+ po/ja.po          |  108 +++++++++++++++----------
+ po/ka.po          |  132 +++++++++++++++++++-----------
+ po/kk.po          |  111 ++++++++++++++-----------
+ po/kn.po          |  105 ++++++++++++++----------
+ po/ko.po          |  108 +++++++++++++++----------
+ po/lt.po          |  186 +++++++++++++++---------------------------
+ po/lv.po          |  132 +++++++++++++++---------------
+ po/mg.po          |  124 ++++++++++++++--------------
+ po/mk.po          |  111 ++++++++++++++-----------
+ po/ml.po          |  112 ++++++++++++++-----------
+ po/mn.po          |  129 +++++++++++++++--------------
+ po/mr.po          |  107 ++++++++++++++----------
+ po/ms.po          |  106 ++++++++++++++----------
+ po/nb.po          |  109 +++++++++++++++----------
+ po/nds.po         |  109 +++++++++++++++----------
+ po/ne.po          |  134 +++++++++++++++++++-----------
+ po/nl.po          |  196 +++++++++++++++-----------------------------
+ po/nn.po          |  125 ++++++++++++++--------------
+ po/oc.po          |  119 ++++++++++++++-------------
+ po/or.po          |  111 ++++++++++++++-----------
+ po/pa.po          |  128 ++++++++++++++---------------
+ po/pl.po          |  128 ++++++++++++++---------------
+ po/ps.po          |  130 ++++++++++++++++++-----------
+ po/pt.po          |  185 +++++++++++++++---------------------------
+ po/pt_BR.po       |  167 ++++++++++++++++----------------------
+ po/ro.po          |  138 +++++++++++++++----------------
+ po/ru.po          |  123 +++++++++++++++-------------
+ po/si.po          |  132 +++++++++++++++++++-----------
+ po/sk.po          |  107 ++++++++++++++----------
+ po/sl.po          |  234 +++++++++++++++++++++++++----------------------------
+ po/sq.po          |  108 +++++++++++++++----------
+ po/sr.po          |  109 ++++++++++++++-----------
+ po/sr@latin.po    |  109 ++++++++++++++-----------
+ po/sv.po          |  121 ++++++++++++++-------------
+ po/ta.po          |  108 ++++++++++++++-----------
+ po/te.po          |  116 ++++++++++++++------------
+ po/th.po          |  152 +++++++++++++++-------------------
+ po/tr.po          |  149 +++++++++++++++-------------------
+ po/uk.po          |  108 +++++++++++++++----------
+ po/uz.po          |  125 ++++++++++++++++++----------
+ po/vi.po          |  122 ++++++++++++++--------------
+ po/zh_CN.po       |  100 ++++++++++++++---------
+ po/zh_HK.po       |  149 +++++++++++++++-------------------
+ po/zh_TW.po       |  149 +++++++++++++++-------------------
+ 81 files changed, 5451 insertions(+), 4914 deletions(-)
+
+commit 423c23a48de6888b1f344c17880f5ad7812b8fbc
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Sat Jul 7 12:01:11 2012 +0200
+
+    add po gnome copyrights file
+
+ po/gnome-copyrights.txt |  996 +++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 996 insertions(+)
+
+commit 2df673d8ef36019247d01c0c0bd3446eb8ed98a9
+Merge: 80d0858 aae94af
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Fri Jul 6 08:49:11 2012 -0700
+
+    Merge pull request #3 from MDykstra/master
+    
+    blue/green vanilla Mate appearance
+
+commit aae94afbf402af204f06645acf96a169e5be2f9f
+Author: Marcel Dijkstra <marcel.dykstra@gmail.com>
+Date:   Mon Jun 25 17:16:05 2012 +0200
+
+    blue/green vanilla mate appearance
+
+ abstract/mate-abstract.xml.in.in |   29 +++++++++++++++++------------
+ desktop/mate-desktop.xml.in.in   |   11 +++++++++++
+ 2 files changed, 28 insertions(+), 12 deletions(-)
+
+commit 80d0858f15d86f57e11de1a2e11d1d391be318c8
+Merge: f19febf 8193889
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Sun Jun 24 14:21:52 2012 -0700
+
+    Merge pull request #2 from MDykstra/master
+    
+    replace "Stripes.jpg" with transparent "Stripes.png"
+
+commit 8193889dec4f4243a604e9da4ae01cbbde564519
+Author: Marcel Dijkstra <marcel.dykstra@gmail.com>
+Date:   Sun Jun 24 23:06:14 2012 +0200
+
+    replace Stripes.jpg with transparent Stripes.png
+
+ desktop/Makefile.am            |    2 +-
+ desktop/Stripes.jpg            |  Bin 246770 -> 0 bytes
+ desktop/Stripes.png            |  Bin 0 -> 694529 bytes
+ desktop/mate-desktop.xml.in.in |    2 +-
+ 4 files changed, 2 insertions(+), 2 deletions(-)
+
+commit f19febf724dfaefa7ed583d1206f7107b4bad39f
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Thu Mar 29 19:50:09 2012 +0200
+
+    higher resolution mate wallpaper
+
+ desktop/GreenTraditional.jpg |  Bin 32071 -> 169587 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 58e3da44fa30630f0122df25d194ab012024e80f
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Thu Mar 29 13:09:54 2012 +0200
+
+    add GreenTraditional background for MATE, move Stripes wallpaper to desktop folder
+
+ AUTHORS                          |    4 ++++
+ Makefile.am                      |    2 +-
+ abstract/Makefile.am             |    3 +--
+ abstract/mate-abstract.xml.in.in |    7 -------
+ abstract/stripes.jpg             |  Bin 246770 -> 0 bytes
+ configure.in                     |    3 ++-
+ desktop/GreenTraditional.jpg     |  Bin 0 -> 32071 bytes
+ desktop/Makefile.am              |   24 ++++++++++++++++++++++++
+ desktop/Stripes.jpg              |  Bin 0 -> 246770 bytes
+ desktop/mate-desktop.xml.in.in   |   14 ++++++++++++++
+ po/POTFILES.in                   |    1 +
+ po/POTFILES.skip                 |    1 +
+ 12 files changed, 48 insertions(+), 11 deletions(-)
+
+commit dbf8edf168f53312e1021bf28f847ef0fc6a1700
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Thu Feb 23 22:12:38 2012 +0100
+
+    update for 1.2 release
+
+ README       |    7 ++++---
+ autogen.sh   |    4 ++--
+ configure.in |    2 +-
+ 3 files changed, 7 insertions(+), 6 deletions(-)
+
+commit 8751b494390fd64fccd0af8240835ea158a73377
+Author: Perberos <perberos@gmail.com>
+Date:   Thu Jan 26 12:18:46 2012 -0300
+
+    changing pkgbuild source method
+
+ distro/archlinux/PKGBUILD |   11 ++++++-----
+ 1 file changed, 6 insertions(+), 5 deletions(-)
+
+commit 7dc9393b502cf5bd0799c2d4a3acc68e7269c26e
+Author: Steve Zesch <stevezesch2@gmail.com>
+Date:   Mon Jan 9 21:39:28 2012 -0500
+
+    Changed mate.gr.jp to gnome.gr.jp as requested in Issue #86
+
+ po/ja.po |    4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit e951046b20b3fda11c4a1c9301ebf8c69afe0177
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Sat Dec 10 00:59:33 2011 +0100
+
+    updated to version 1.1.0
+
+ configure.in              |    4 ++--
+ distro/archlinux/PKGBUILD |    2 +-
+ distro/ubuntu/build       |    2 +-
+ 3 files changed, 4 insertions(+), 4 deletions(-)
+
+commit bcc0f49f596385b3f5eb30c44be9bfdb0acf23b3
+Author: Perberos <perberos@gmail.com>
+Date:   Thu Dec 1 19:52:44 2011 -0300
+
+    updating version tag
+
+ configure.in              |    2 +-
+ distro/archlinux/PKGBUILD |   20 +++++++++++---------
+ distro/ubuntu/build       |    7 +++++--
+ 3 files changed, 17 insertions(+), 12 deletions(-)
+
+commit 3132884a5727498c67bd93fb24e2b4925756e5a4
+Author: Perberos <perberos@gmail.com>
+Date:   Thu Dec 1 19:52:26 2011 -0300
+
+    restart changelog
+
+ po/ChangeLog | 1022 ----------------------------------------------------------
+ 1 file changed, 1022 deletions(-)
+
+commit e59145232c55785c2d5687d615016e6250140e79
+Author: Perberos <perberos@gmail.com>
+Date:   Wed Nov 30 18:59:39 2011 -0300
+
+    moving from https://github.com/perberos/Mate-Desktop-Environment
+
+ AUTHORS                                       |   50 ++
+ COPYING                                       |  340 ++++++++
+ MAINTAINERS                                   |    4 +
+ Makefile.am                                   |   42 +
+ NEWS                                          |  537 +++++++++++++
+ README                                        |   33 +
+ TODO                                          |    5 +
+ abstract/Arc-Colors-Transparent-Wallpaper.png |  Bin 0 -> 185162 bytes
+ abstract/Flow.png                             |  Bin 0 -> 384332 bytes
+ abstract/Gulp.png                             |  Bin 0 -> 2090753 bytes
+ abstract/Makefile.am                          |   30 +
+ abstract/Silk.png                             |  Bin 0 -> 233640 bytes
+ abstract/Spring.png                           |  Bin 0 -> 77510 bytes
+ abstract/Waves.png                            |  Bin 0 -> 239524 bytes
+ abstract/mate-abstract.xml.in.in              |   57 ++
+ abstract/stripes.jpg                          |  Bin 0 -> 246770 bytes
+ autogen.sh                                    |   25 +
+ configure.in                                  |   24 +
+ distro/archlinux/PKGBUILD                     |   26 +
+ distro/ubuntu/build                           |   25 +
+ nature/Aqua.jpg                               |  Bin 0 -> 200353 bytes
+ nature/Blinds.jpg                             |  Bin 0 -> 1157513 bytes
+ nature/Dune.jpg                               |  Bin 0 -> 1021283 bytes
+ nature/FreshFlower.jpg                        |  Bin 0 -> 80905 bytes
+ nature/Garden.jpg                             |  Bin 0 -> 264831 bytes
+ nature/GreenMeadow.jpg                        |  Bin 0 -> 183377 bytes
+ nature/LadyBird.jpg                           |  Bin 0 -> 351588 bytes
+ nature/Makefile.am                            |   34 +
+ nature/RainDrops.jpg                          |  Bin 0 -> 1242241 bytes
+ nature/Storm.jpg                              |  Bin 0 -> 695070 bytes
+ nature/TwoWings.jpg                           |  Bin 0 -> 881400 bytes
+ nature/Wood.jpg                               |  Bin 0 -> 525520 bytes
+ nature/YellowFlower.jpg                       |  Bin 0 -> 267440 bytes
+ nature/mate-nature.xml.in.in                  |   68 ++
+ po/ChangeLog                                  | 1022 +++++++++++++++++++++++++
+ po/LINGUAS                                    |   90 +++
+ po/POTFILES.in                                |    2 +
+ po/POTFILES.skip                              |    3 +
+ po/af.po                                      |  110 +++
+ po/an.po                                      |   90 +++
+ po/ar.po                                      |   95 +++
+ po/as.po                                      |  110 +++
+ po/ast.po                                     |   95 +++
+ po/be.po                                      |   73 ++
+ po/be@latin.po                                |   86 +++
+ po/bg.po                                      |   91 +++
+ po/bn.po                                      |  129 ++++
+ po/bn_IN.po                                   |   97 +++
+ po/ca.po                                      |  131 ++++
+ po/ca@valencia.po                             |  131 ++++
+ po/cs.po                                      |   93 +++
+ po/cy.po                                      |  163 ++++
+ po/da.po                                      |  168 ++++
+ po/de.po                                      |  122 +++
+ po/dz.po                                      |   91 +++
+ po/el.po                                      |   94 +++
+ po/en@shaw.po                                 |   90 +++
+ po/en_CA.po                                   |   71 ++
+ po/en_GB.po                                   |  131 ++++
+ po/eo.po                                      |   92 +++
+ po/es.po                                      |   94 +++
+ po/et.po                                      |   93 +++
+ po/eu.po                                      |   91 +++
+ po/fa.po                                      |   93 +++
+ po/fi.po                                      |  173 +++++
+ po/fr.po                                      |  111 +++
+ po/fur.po                                     |   70 ++
+ po/fy.po                                      |   89 +++
+ po/ga.po                                      |   90 +++
+ po/gl.po                                      |   94 +++
+ po/gu.po                                      |   95 +++
+ po/he.po                                      |  106 +++
+ po/hi.po                                      |   93 +++
+ po/hu.po                                      |   93 +++
+ po/hy.po                                      |  111 +++
+ po/id.po                                      |   95 +++
+ po/it.po                                      |   89 +++
+ po/ja.po                                      |   89 +++
+ po/ka.po                                      |   72 ++
+ po/kk.po                                      |   90 +++
+ po/kn.po                                      |   91 +++
+ po/ko.po                                      |   89 +++
+ po/ku.po                                      |   56 ++
+ po/ky.po                                      |   77 ++
+ po/lt.po                                      |  167 ++++
+ po/lv.po                                      |  111 +++
+ po/mai.po                                     |   74 ++
+ po/mg.po                                      |  106 +++
+ po/mk.po                                      |   92 +++
+ po/ml.po                                      |   94 +++
+ po/mn.po                                      |  114 +++
+ po/mr.po                                      |   93 +++
+ po/ms.po                                      |   88 +++
+ po/nb.po                                      |   88 +++
+ po/nds.po                                     |   89 +++
+ po/ne.po                                      |   76 ++
+ po/nl.po                                      |  177 +++++
+ po/nn.po                                      |  110 +++
+ po/oc.po                                      |  106 +++
+ po/or.po                                      |   94 +++
+ po/pa.po                                      |  110 +++
+ po/pl.po                                      |  109 +++
+ po/ps.po                                      |   73 ++
+ po/pt.po                                      |  166 ++++
+ po/pt_BR.po                                   |  145 ++++
+ po/ro.po                                      |  120 +++
+ po/ru.po                                      |  105 +++
+ po/rw.po                                      |   65 ++
+ po/si.po                                      |   74 ++
+ po/sk.po                                      |   89 +++
+ po/sl.po                                      |  124 +++
+ po/sq.po                                      |   91 +++
+ po/sr.po                                      |   91 +++
+ po/sr@latin.po                                |   91 +++
+ po/sv.po                                      |  104 +++
+ po/ta.po                                      |   93 +++
+ po/te.po                                      |   97 +++
+ po/th.po                                      |  131 ++++
+ po/tr.po                                      |  130 ++++
+ po/uk.po                                      |   88 +++
+ po/uz.po                                      |   71 ++
+ po/uz@cyrillic.po                             |   71 ++
+ po/vi.po                                      |  106 +++
+ po/zh_CN.po                                   |   88 +++
+ po/zh_HK.po                                   |  131 ++++
+ po/zh_TW.po                                   |  131 ++++
+ 126 files changed, 11387 insertions(+)
