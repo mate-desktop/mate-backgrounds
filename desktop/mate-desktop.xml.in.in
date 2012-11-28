@@ -12,7 +12,7 @@
 	<wallpaper deleted="false">
 		<_name>Green Traditional</_name>
 		<filename>@datadir@/pixmaps/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
-		<options>zoom</options>
+		<options>stretch</options>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Stripes</_name>
