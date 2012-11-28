@@ -1,7 +1,7 @@
 backgrounddir = $(datadir)/pixmaps/backgrounds/mate/desktop
 
 background_DATA =\
-	GreenTraditional.jpg \
+	GreenTraditional.png \
 	Stripes.png
 
 metadata_in_files = mate-desktop.xml.in
