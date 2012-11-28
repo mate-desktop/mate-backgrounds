@@ -11,8 +11,11 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Green Traditional</_name>
-		<filename>@datadir@/pixmaps/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
+		<filename>@datadir@/pixmaps/backgrounds/mate/desktop/GreenTraditional.png</filename>
 		<options>zoom</options>
+		<shade_type>horizontal-gradient</shade_type>
+		<pcolor>#27587E</pcolor>
+		<scolor>#627F5A</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Stripes</_name>
