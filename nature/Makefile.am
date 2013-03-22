@@ -1,4 +1,4 @@
-backgrounddir = $(datadir)/pixmaps/backgrounds/mate/nature
+backgrounddir = $(datadir)/backgrounds/mate/nature
 
 background_DATA =\
 	Aqua.jpg \

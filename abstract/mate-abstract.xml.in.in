@@ -4,7 +4,7 @@
 	<wallpaper deleted="false">
 		<!-- From http://code.google.com/p/gnome-colors/ -->
 		<_name>Arc</_name>
-		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
+		<filename>@datadir@/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
@@ -13,7 +13,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Flow</_name>
-		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Flow.png</filename>
+		<filename>@datadir@/backgrounds/mate/abstract/Flow.png</filename>
 		<options>zoom</options>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
@@ -22,7 +22,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Gulp</_name>
-		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Gulp.png</filename>
+		<filename>@datadir@/backgrounds/mate/abstract/Gulp.png</filename>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#627F5A</pcolor>
 		<scolor>#27587E</scolor>
@@ -30,7 +30,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Silk</_name>
-		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Silk.png</filename>
+		<filename>@datadir@/backgrounds/mate/abstract/Silk.png</filename>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
 		<scolor>#627F5A</scolor>
@@ -38,7 +38,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Spring</_name>
-		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Spring.png</filename>
+		<filename>@datadir@/backgrounds/mate/abstract/Spring.png</filename>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
 		<scolor>#627F5A</scolor>
@@ -46,7 +46,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Waves</_name>
-		<filename>@datadir@/pixmaps/backgrounds/mate/abstract/Waves.png</filename>
+		<filename>@datadir@/backgrounds/mate/abstract/Waves.png</filename>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
 		<scolor>#627F5A</scolor>
