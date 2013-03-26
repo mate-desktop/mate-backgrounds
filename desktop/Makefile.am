@@ -1,4 +1,4 @@
-backgrounddir = $(datadir)/pixmaps/backgrounds/mate/desktop
+backgrounddir = $(datadir)/backgrounds/mate/desktop
 
 background_DATA =\
 	GreenTraditional.jpg \

@@ -1,4 +1,4 @@
-backgrounddir = $(datadir)/pixmaps/backgrounds/mate/abstract
+backgrounddir = $(datadir)/backgrounds/mate/abstract
 
 background_DATA = \
 	Arc-Colors-Transparent-Wallpaper.png \
