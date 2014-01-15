@@ -16,8 +16,8 @@ dist-hook:
 		echo A git clone is required to generate a ChangeLog >&2; \
 	fi
 
-
 EXTRA_DIST = \
+	autogen.sh \
 	MAINTAINERS
 
 DISTCLEANFILES = \
