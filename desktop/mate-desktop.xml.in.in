@@ -10,6 +10,11 @@
 		<scolor>#627F5A</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
+		<_name>Float into MATE</_name>
+		<filename>@datadir@/backgrounds/mate/desktop/Float-into-MATE.png</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
 		<_name>Green Traditional</_name>
 		<filename>@datadir@/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
 		<options>zoom</options>

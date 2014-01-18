@@ -1,6 +1,7 @@
 backgrounddir = $(datadir)/backgrounds/mate/desktop
 
-background_DATA =\
+background_DATA = \
+	Float-into-MATE.png \
 	GreenTraditional.jpg \
 	Stripes.png
 
