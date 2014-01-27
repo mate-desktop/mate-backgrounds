@@ -13,11 +13,13 @@
 		<_name>Float into MATE</_name>
 		<filename>@datadir@/backgrounds/mate/desktop/Float-into-MATE.png</filename>
 		<options>zoom</options>
+		<artist>Rowen Stipe</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Green Traditional</_name>
 		<filename>@datadir@/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
 		<options>zoom</options>
+		<artist>l0r4n0n</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Stripes</_name>
@@ -26,5 +28,6 @@
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#5891BC</pcolor>
 		<scolor>#44A52A</scolor>
+		<artist>Jakub Steiner</artist>
 	</wallpaper>
 </wallpapers>

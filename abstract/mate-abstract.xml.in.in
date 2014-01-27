@@ -19,6 +19,7 @@
 		<pcolor>#27587E</pcolor>
 		<scolor>#627F5A</scolor>
 		<options>zoom</options>
+		<artist>Daniel Galleguillos, Hylke Bons</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Gulp</_name>
@@ -27,6 +28,7 @@
 		<pcolor>#627F5A</pcolor>
 		<scolor>#27587E</scolor>
 		<options>zoom</options>
+		<artist>Daniel Galleguillos, Hylke Bons</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Silk</_name>
@@ -35,6 +37,7 @@
 		<pcolor>#27587E</pcolor>
 		<scolor>#627F5A</scolor>
 		<options>zoom</options>
+		<artist>Patryk Zawadzki</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Spring</_name>
@@ -43,6 +46,7 @@
 		<pcolor>#27587E</pcolor>
 		<scolor>#627F5A</scolor>
 		<options>zoom</options>
+		<artist>Patryk Zawadzki</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Waves</_name>
@@ -51,5 +55,6 @@
 		<pcolor>#27587E</pcolor>
 		<scolor>#627F5A</scolor>
 		<options>zoom</options>
+		<artist>Patryk Zawadzki</artist>
 	</wallpaper>
 </wallpapers>
