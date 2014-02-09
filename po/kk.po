@@ -3,26 +3,26 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Erzhan Shaniev <erzhan.jktl@gmail.com>, 2008.
-# Moldabekov Margulan <moldabekov@gmail.com>, 2008.
+# Erzhan Shaniev <erzhan.jktl@gmail.com>, 2008
+# Moldabekov Margulan <moldabekov@gmail.com>, 2008
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-07-07 10:02+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2013-11-03 06:44+0000\n"
+"Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
+"Language-Team: Kazakh (http://www.transifex.com/projects/p/MATE/language/kk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: kk\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr ""
+msgstr "Аймақтық доға"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
@@ -46,7 +46,7 @@ msgstr "Толқындар"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Түсқағаз жоқ"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"

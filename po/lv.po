@@ -3,26 +3,27 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Pēteris Krišjānis <pecisk@gmail.com>, 2009.
-# Raivis Dejus <orvils@gmail.com>, 2006, 2009.
+# Pēteris Krišjānis <pecisk@gmail.com>, 2009
+# Raivis Dejus <orvils@gmail.com>, 2006, 2009
+# Rihards Priedītis <rprieditis@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-07-07 10:02+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2013-07-25 19:13+0000\n"
+"Last-Translator: Rihards Priedītis <rprieditis@gmail.com>\n"
+"Language-Team: Latvian (http://www.transifex.com/projects/p/MATE/language/lv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lv\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr ""
+msgstr "Arka"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
@@ -46,15 +47,15 @@ msgstr "Viļņi"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Nav darbvirsmas fona"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "Zaļais Tradicionālais"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
-msgstr ""
+msgstr "Strīpas"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
