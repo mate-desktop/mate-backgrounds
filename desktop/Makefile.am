@@ -3,7 +3,9 @@ backgrounddir = $(datadir)/backgrounds/mate/desktop
 background_DATA = \
 	Float-into-MATE.png \
 	GreenTraditional.jpg \
-	Stripes.png
+	Stripes.png \
+	MATE-Stripes-Dark.png \
+	MATE-Stripes-Light.png
 
 metadata_in_files = mate-desktop.xml.in
 metadatadir = $(datadir)/mate-background-properties

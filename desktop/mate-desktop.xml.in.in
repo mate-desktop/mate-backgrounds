@@ -30,4 +30,22 @@
 		<scolor>#44A52A</scolor>
 		<artist>Jakub Steiner</artist>
 	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Stripes</_name>
+		<filename>@datadir@/backgrounds/mate/desktop/MATE-Stripes-Dark.png</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#BADA55</pcolor>
+		<scolor>#85D45B</scolor>
+		<artist>Adam Erdman</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Stripes</_name>
+		<filename>@datadir@/backgrounds/mate/desktop/MATE-Stripes-Light.png</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#3F4D28</pcolor>
+		<scolor>#6A9426</scolor>
+		<artist>Adam Erdman</artist>
+	</wallpaper>
 </wallpapers>
