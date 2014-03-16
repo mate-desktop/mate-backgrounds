@@ -31,7 +31,7 @@
 		<artist>Jakub Steiner</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Stripes</_name>
+		<_name>MATE Stripes Dark</_name>
 		<filename>@datadir@/backgrounds/mate/desktop/MATE-Stripes-Dark.png</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
@@ -40,7 +40,7 @@
 		<artist>Adam Erdman</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Stripes</_name>
+		<_name>MATE Stripes Light</_name>
 		<filename>@datadir@/backgrounds/mate/desktop/MATE-Stripes-Light.png</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
