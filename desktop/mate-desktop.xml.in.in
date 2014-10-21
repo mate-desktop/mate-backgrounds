@@ -48,4 +48,28 @@
 		<scolor>#6A9426</scolor>
 		<artist>Adam Erdman</artist>
 	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Ubuntu MATE Cold</_name>
+		<filename>@datadir@/backgrounds/mate/desktop/Ubuntu-Mate-Cold-no-logo.png</filename>
+		<options>zoom</options>
+		<artist>Goce Mitevski</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Ubuntu MATE Dark</_name>
+		<filename>@datadir@/backgrounds/mate/desktop/Ubuntu-Mate-Dark-no-logo.png</filename>
+		<options>zoom</options>
+		<artist>Goce Mitevski</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Ubuntu MATE Radioactive</_name>
+		<filename>@datadir@/backgrounds/mate/desktop/Ubuntu-Mate-Radioactive-no-logo.png</filename>
+		<options>zoom</options>
+		<artist>Goce Mitevski</artist>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Ubuntu MATE Warm</_name>
+		<filename>@datadir@/backgrounds/mate/desktop/Ubuntu-Mate-Warm-no-logo.png</filename>
+		<options>zoom</options>
+		<artist>Goce Mitevski</artist>
+	</wallpaper>
 </wallpapers>

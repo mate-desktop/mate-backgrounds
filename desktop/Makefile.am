@@ -5,7 +5,11 @@ background_DATA = \
 	GreenTraditional.jpg \
 	Stripes.png \
 	MATE-Stripes-Dark.png \
-	MATE-Stripes-Light.png
+	MATE-Stripes-Light.png \
+	Ubuntu-Mate-Cold-no-logo.png \
+	Ubuntu-Mate-Dark-no-logo.png \
+	Ubuntu-Mate-Radioactive-no-logo.png \
+	Ubuntu-Mate-Warm-no-logo.png
 
 metadata_in_files = mate-desktop.xml.in
 metadatadir = $(datadir)/mate-background-properties
