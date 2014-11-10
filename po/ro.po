@@ -3,25 +3,26 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Adi Roiban https://launchpad.net/~adiroiban, 2009.
+# Adi Roiban https://launchpad.net/~adiroiban, 2009
+# Octi <octi@writeme.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-07-07 10:02+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2014-11-01 07:09+0000\n"
+"Last-Translator: Octi <octi@writeme.com>\n"
+"Language-Team: Romanian (http://www.transifex.com/projects/p/MATE/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ro\n"
-"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1))\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr ""
+msgstr "Boltă"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
@@ -45,15 +46,15 @@ msgstr "Valuri"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Fără imagine de fundal"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "Verde tradițional"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
-msgstr ""
+msgstr "Dungi"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
