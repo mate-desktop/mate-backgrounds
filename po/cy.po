@@ -3,25 +3,26 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Dafydd Harries <daf@muse.19inch.net>, 2004.
+# ciaran, 2014
+# Dafydd Harries <daf@muse.19inch.net>, 2004
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-07-07 10:02+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2014-12-20 18:40+0000\n"
+"Last-Translator: ciaran\n"
+"Language-Team: Welsh (http://www.transifex.com/projects/p/MATE/language/cy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: cy\n"
-"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr ""
+msgstr "Arc"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
@@ -29,7 +30,7 @@ msgstr "Llif"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr "Tonnau a swigog"
+msgstr "Tonnau a swigod"
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
@@ -45,15 +46,15 @@ msgstr "Tonnau"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Dim Cefndir i'r Bwrdd Gwaith"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "Gwyrdd traddodiadol"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
-msgstr ""
+msgstr "Streipiau"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.

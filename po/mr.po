@@ -3,27 +3,28 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER, 2006.
-# Rahul Bhalerao <b.rahul.pm@gmail.com>, 2006.
-# Sandeep Shedmake <sandeep.shedmake@gmail.com>, 2008.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER, 2006
+# Rahul Bhalerao <b.rahul.pm@gmail.com>, 2006
+# Sandeep Shedmake <sandeep.shedmake@gmail.com>, 2008
+# Vaibhav S Dalvi <vaibhav.dlv@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-07-07 10:02+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2014-05-04 14:40+0000\n"
+"Last-Translator: Vaibhav S Dalvi <vaibhav.dlv@gmail.com>\n"
+"Language-Team: Marathi (http://www.transifex.com/projects/p/MATE/language/mr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: mr\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr ""
+msgstr "कंस"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
@@ -47,15 +48,15 @@ msgstr "लहरी"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "डेस्कटॉप पार्श्वभूमी नाही"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "पारंपारिक हिरवे"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
-msgstr ""
+msgstr "पट्टे"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.

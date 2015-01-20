@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# samson <sambelet@yahoo.com>, 2013
+# samson <sambelet@yahoo.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2013-03-16 18:52+0000\n"
+"PO-Revision-Date: 2014-07-13 23:05+0000\n"
 "Last-Translator: samson <sambelet@yahoo.com>\n"
 "Language-Team: Amharic (http://www.transifex.com/projects/p/MATE/language/am/)\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "ቅስት "
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr ""
+msgstr "ፍሰት"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
@@ -37,7 +37,7 @@ msgstr "ሐር "
 
 #: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
-msgstr ""
+msgstr "ፅጸደ"
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
@@ -87,7 +87,7 @@ msgstr "ሁለት ክንፍ "
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr ""
+msgstr "የወፍ ንግስት"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
