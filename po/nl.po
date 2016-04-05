@@ -3,23 +3,23 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Michael Steenbeek <m.o.steenbeek@gmail.com>, 2012.
-# Reinout van Schouwen <reinouts@gnome.org>, 2008.
-# Tino Meinen <a.t.meinen@chello.nl>, 2004.
-# Wouter Bolsterlee <wbolster@gnome.org>, 2008.
+# Michael Steenbeek <m.o.steenbeek@gmail.com>, 2012
+# Reinout van Schouwen <reinouts@gnome.org>, 2008
+# Tino Meinen <a.t.meinen@chello.nl>, 2004
+# Wouter Bolsterlee <wbolster@gnome.org>, 2008
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-07-07 10:02+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: Dutch (http://www.transifex.com/projects/p/MATE/language/nl/)\n"
+"PO-Revision-Date: 2012-07-07 12:42+0000\n"
+"Last-Translator: Michael Steenbeek <m.o.steenbeek@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/mate/MATE/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
@@ -48,11 +48,11 @@ msgstr "Golven"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Geen bureaubladachtergrond"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "Traditioneel groen"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"

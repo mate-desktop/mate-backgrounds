@@ -3,27 +3,28 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Elias Makris <ilmakris@sch.gr>, 2008.
-# Kostas Papadimas<pkst@gnome.org>, 2004, 2006.
-# Kostas Papad <pkst@gnome.org>, 2004.
+# Elias Makris <ilmakris@sch.gr>, 2008
+# geost <george.stefanakis@gmail.com>, 2012
+# Kostas Papadimas<pkst@gnome.org>, 2004, 2006
+# Kostas Papad <pkst@gnome.org>, 2004
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-07-07 10:02+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: Greek (http://www.transifex.com/projects/p/MATE/language/el/)\n"
+"PO-Revision-Date: 2012-07-27 14:16+0000\n"
+"Last-Translator: geost <george.stefanakis@gmail.com>\n"
+"Language-Team: Greek (http://www.transifex.com/mate/MATE/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: el\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr ""
+msgstr "Τόξο"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
@@ -47,15 +48,15 @@ msgstr "Κύματα"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Χωρίς εικόνα παρασκηνίου"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "Παραδοσειακό πράσινο"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
-msgstr ""
+msgstr "Ρίγες"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.

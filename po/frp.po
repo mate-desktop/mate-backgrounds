@@ -3,21 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# AMITAKHYA PHUKAN <amitakhya.phukan@gmail.com>, 2006
-# Amitakhya Phukan <aphukan@redhat.com>, 2008
+# Alexandre Raymond, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-07-07 10:02+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: Assamese (http://www.transifex.com/mate/MATE/language/as/)\n"
+"PO-Revision-Date: 2016-03-31 16:01+0000\n"
+"Last-Translator: Alexandre Raymond\n"
+"Language-Team: Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: as\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: frp\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
@@ -26,23 +25,23 @@ msgstr ""
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr "প্ৰবাহ"
+msgstr ""
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr "গৰাহ"
+msgstr ""
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
-msgstr "পাট"
+msgstr "Sèya"
 
 #: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
-msgstr "বসন্ত"
+msgstr ""
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
-msgstr "ঢৌ"
+msgstr "Vagues"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
@@ -50,7 +49,7 @@ msgstr ""
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "Vèrd tradicionèl"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
@@ -61,51 +60,51 @@ msgstr ""
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr "সতেজ ফুল"
+msgstr ""
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr "সেউজীয়া ঘাঁহনি"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
-msgstr "একোৱা"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:8
 msgid "Dune"
-msgstr "ডুন"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:9
 msgid "Storm"
-msgstr "ধুমুহা"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:10
 msgid "Two Wings"
-msgstr "দুটা পাখি"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr "সোণপোকা"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr "ব্লাইন্ডচ্‌"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
-msgstr "বৰষুণৰ টোপাল"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:14
 msgid "Yellow Flower"
-msgstr "হালধীয়া ফুল"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:15
 msgid "Garden"
-msgstr "বাগিছা"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:16
 msgid "Wood"
-msgstr "বননি"
+msgstr ""

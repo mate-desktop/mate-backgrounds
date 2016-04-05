@@ -3,21 +3,21 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Baris Cicek <baris@teamforce.name.tr>, 2006, 2008.
-#   <mauron@vmail.me>, 2012.
+# Baris Cicek <baris@teamforce.name.tr>, 2006, 2008
+# mauron, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-07-07 10:02+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: Turkish (http://www.transifex.com/projects/p/MATE/language/tr/)\n"
+"PO-Revision-Date: 2012-09-13 13:04+0000\n"
+"Last-Translator: mauron\n"
+"Language-Team: Turkish (http://www.transifex.com/mate/MATE/language/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: tr\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
@@ -46,11 +46,11 @@ msgstr "Dalgalar"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Masaüstü Arkaplanı Yok"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "Geleneksel Yeşil"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
@@ -92,7 +92,7 @@ msgstr "Uğur Böceği"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr "Pancur"
+msgstr "Panjur"
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"

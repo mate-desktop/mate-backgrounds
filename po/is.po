@@ -3,109 +3,108 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# AMITAKHYA PHUKAN <amitakhya.phukan@gmail.com>, 2006
-# Amitakhya Phukan <aphukan@redhat.com>, 2008
+# Sveinn í Felli <sv1@fellsnet.is>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-07-07 10:02+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: Assamese (http://www.transifex.com/mate/MATE/language/as/)\n"
+"PO-Revision-Date: 2015-12-29 16:11+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
+"Language-Team: Icelandic (http://www.transifex.com/mate/MATE/language/is/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: as\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr ""
+msgstr "Bogi"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr "প্ৰবাহ"
+msgstr "Flæði"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr "গৰাহ"
+msgstr "Gúlpur"
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
-msgstr "পাট"
+msgstr "Silki"
 
 #: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
-msgstr "বসন্ত"
+msgstr "Vorið"
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
-msgstr "ঢৌ"
+msgstr "Bylgjur"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Enginn skjáborðsbakgrunnur"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "Hefðbundið grænt"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
-msgstr ""
+msgstr "Strípur"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr "সতেজ ফুল"
+msgstr "Fersk blóm"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr "সেউজীয়া ঘাঁহনি"
+msgstr "Grænt rjóður"
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
-msgstr "একোৱা"
+msgstr "Sægrænt"
 
 #: ../nature/mate-nature.xml.in.in.h:8
 msgid "Dune"
-msgstr "ডুন"
+msgstr "Sandalda"
 
 #: ../nature/mate-nature.xml.in.in.h:9
 msgid "Storm"
-msgstr "ধুমুহা"
+msgstr "Stormur"
 
 #: ../nature/mate-nature.xml.in.in.h:10
 msgid "Two Wings"
-msgstr "দুটা পাখি"
+msgstr "Tveir vængir"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr "সোণপোকা"
+msgstr "Kvenfugl"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr "ব্লাইন্ডচ্‌"
+msgstr "Strimlar"
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
-msgstr "বৰষুণৰ টোপাল"
+msgstr "Regndropar"
 
 #: ../nature/mate-nature.xml.in.in.h:14
 msgid "Yellow Flower"
-msgstr "হালধীয়া ফুল"
+msgstr "Gul blóm"
 
 #: ../nature/mate-nature.xml.in.in.h:15
 msgid "Garden"
-msgstr "বাগিছা"
+msgstr "Garður"
 
 #: ../nature/mate-nature.xml.in.in.h:16
 msgid "Wood"
-msgstr "বননি"
+msgstr "Viður"

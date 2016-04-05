@@ -3,16 +3,16 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# ciaran, 2014
+# ciaran, 2014-2015
 # Dafydd Harries <daf@muse.19inch.net>, 2004
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2014-12-20 18:40+0000\n"
+"PO-Revision-Date: 2015-12-22 23:49+0000\n"
 "Last-Translator: ciaran\n"
-"Language-Team: Welsh (http://www.transifex.com/projects/p/MATE/language/cy/)\n"
+"Language-Team: Welsh (http://www.transifex.com/mate/MATE/language/cy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -46,7 +46,7 @@ msgstr "Tonnau"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "Dim Cefndir i'r Bwrdd Gwaith"
+msgstr "Dim cefndir i'r bwrdd gwaith"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"

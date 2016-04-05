@@ -3,15 +3,15 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# samson <sambelet@yahoo.com>, 2013-2014
+# samson <sambelet@yahoo.com>, 2013-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2014-07-13 23:05+0000\n"
+"PO-Revision-Date: 2015-07-20 20:24+0000\n"
 "Last-Translator: samson <sambelet@yahoo.com>\n"
-"Language-Team: Amharic (http://www.transifex.com/projects/p/MATE/language/am/)\n"
+"Language-Team: Amharic (http://www.transifex.com/mate/MATE/language/am/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,7 +29,7 @@ msgstr "ፍሰት"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr ""
+msgstr "ማመቂያ"
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
@@ -67,7 +67,7 @@ msgstr "አዲስ አበባ "
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr ""
+msgstr "አረንጓዴ ኮረብታ"
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
@@ -75,7 +75,7 @@ msgstr "ውሀ "
 
 #: ../nature/mate-nature.xml.in.in.h:8
 msgid "Dune"
-msgstr ""
+msgstr "አሸዋ"
 
 #: ../nature/mate-nature.xml.in.in.h:9
 msgid "Storm"
@@ -91,7 +91,7 @@ msgstr "የወፍ ንግስት"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr ""
+msgstr "መሸፈኛ"
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
