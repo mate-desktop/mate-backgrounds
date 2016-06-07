@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2016-03-31 16:01+0000\n"
+"PO-Revision-Date: 2016-05-09 14:32+0000\n"
 "Last-Translator: Alexandre Raymond\n"
 "Language-Team: Franco-Provençal (Arpitan) (http://www.transifex.com/mate/MATE/language/frp/)\n"
 "MIME-Version: 1.0\n"
@@ -21,11 +21,11 @@ msgstr ""
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr ""
+msgstr "Arc"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr ""
+msgstr "Flu"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
@@ -37,7 +37,7 @@ msgstr "Sèya"
 
 #: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
-msgstr ""
+msgstr "Printemps"
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
@@ -71,23 +71,23 @@ msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
-msgstr ""
+msgstr "Ègua"
 
 #: ../nature/mate-nature.xml.in.in.h:8
 msgid "Dune"
-msgstr ""
+msgstr "Duna"
 
 #: ../nature/mate-nature.xml.in.in.h:9
 msgid "Storm"
-msgstr ""
+msgstr "Tempè‛ta"
 
 #: ../nature/mate-nature.xml.in.in.h:10
 msgid "Two Wings"
-msgstr ""
+msgstr "Doues âles"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr ""
+msgstr "Dâma Osél"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:15
 msgid "Garden"
-msgstr ""
+msgstr "Jardin"
 
 #: ../nature/mate-nature.xml.in.in.h:16
 msgid "Wood"
