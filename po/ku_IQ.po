@@ -3,110 +3,108 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Gil Forcada <gilforcada@guifi.net>, 2008
-# Jesús Corrius <jesus@softcatala.org>, 2005
-# Pilar Embid Giner <embid_mar@gva.es>, 2016
+# Rasti K5 <rasti.khdhr@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2016-09-14 08:27+0000\n"
-"Last-Translator: Jose Alfredo Murcia Andrés <joamuran@gmail.com>\n"
-"Language-Team: Catalan (Valencian) (http://www.transifex.com/mate/MATE/language/ca@valencia/)\n"
+"PO-Revision-Date: 2016-09-15 15:10+0000\n"
+"Last-Translator: Rasti K5 <rasti.khdhr@gmail.com>\n"
+"Language-Team: Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ca@valencia\n"
+"Language: ku_IQ\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr "Arc"
+msgstr ""
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr "Flux"
+msgstr ""
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr "Glop"
+msgstr ""
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
-msgstr "Seda"
+msgstr "ئاوریشم"
 
 #: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
-msgstr "Primavera"
+msgstr ""
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
-msgstr "Ones"
+msgstr "شەپۆلەکان"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "Sense fons d'escriptori"
+msgstr ""
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr "Verd tradicional"
+msgstr ""
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
-msgstr "Ratlles"
+msgstr ""
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr "lliurexFlor fresca"
+msgstr ""
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr "Prat verd"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
-msgstr "Aigua"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:8
 msgid "Dune"
-msgstr "Duna"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:9
 msgid "Storm"
-msgstr "Tempesta"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:10
 msgid "Two Wings"
-msgstr "Dues ales"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr "Marieta"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr "Persiana"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
-msgstr "Gotes de pluja"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:14
 msgid "Yellow Flower"
-msgstr "Flor groga"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:15
 msgid "Garden"
-msgstr "Jardí"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:16
 msgid "Wood"
-msgstr "Fusta"
+msgstr ""

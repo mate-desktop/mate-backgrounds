@@ -5,13 +5,14 @@
 # Translators:
 # ahmad riza h nst <ari@160c.afraid.org>, 2005
 # Mohamad Hasan Al Banna <se7entime@protonmail.com>, 2012
+# Muhammad Herdiansyah <herdiansyah@openmailbox.org>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2012-10-30 14:42+0000\n"
-"Last-Translator: Mohamad Hasan Al Banna <se7entime@protonmail.com>\n"
+"PO-Revision-Date: 2016-08-02 04:28+0000\n"
+"Last-Translator: Muhammad Herdiansyah <herdiansyah@openmailbox.org>\n"
 "Language-Team: Indonesian (http://www.transifex.com/mate/MATE/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +27,7 @@ msgstr "Arc"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr "Alur-alur Buih"
+msgstr "Aliran"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
@@ -42,15 +43,15 @@ msgstr "Musim Semi"
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
-msgstr "Ombak"
+msgstr "Gelombang"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "Tidak ada latarbelakang Desktop"
+msgstr "Tanpa Latar Belakang Desktop"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr "Tradisional Hijau"
+msgstr "Hijau Tradisional"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
@@ -61,14 +62,14 @@ msgstr "Stripes"
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr "Bunga yang Segar"
+msgstr "Bunga Segar"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr "Padang Menghijau"
+msgstr "Padang Hijau"
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
@@ -84,7 +85,7 @@ msgstr "Badai"
 
 #: ../nature/mate-nature.xml.in.in.h:10
 msgid "Two Wings"
-msgstr "Sepasang Sayap"
+msgstr "Dua Sayap"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"

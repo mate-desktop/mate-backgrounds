@@ -5,14 +5,14 @@
 # Translators:
 # Gil Forcada <gilforcada@guifi.net>, 2008
 # Jesús Corrius <jesus@softcatala.org>, 2005
-# Pere Orga <gotrunks@gmail.com>, 2012
+# Pere O. <gotrunks@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
 "PO-Revision-Date: 2015-11-26 14:05+0000\n"
-"Last-Translator: Pere Orga <gotrunks@gmail.com>\n"
+"Last-Translator: Pere O. <gotrunks@gmail.com>\n"
 "Language-Team: Catalan (http://www.transifex.com/mate/MATE/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
