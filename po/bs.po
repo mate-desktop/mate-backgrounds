@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2016-09-05 14:54+0000\n"
+"PO-Revision-Date: 2016-11-04 13:52+0000\n"
 "Last-Translator: Sky Lion <xskylionx@gmail.com>\n"
 "Language-Team: Bosnian (http://www.transifex.com/mate/MATE/language/bs/)\n"
 "MIME-Version: 1.0\n"
@@ -45,33 +45,33 @@ msgstr ""
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Nijedna pozadina"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "Zeleno Tradicionalno"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
-msgstr ""
+msgstr "Pruge"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr ""
+msgstr "Svježi cvijet"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr ""
+msgstr "Zelena livada"
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
-msgstr ""
+msgstr "Aqua"
 
 #: ../nature/mate-nature.xml.in.in.h:8
 msgid "Dune"
@@ -83,11 +83,11 @@ msgstr "Oluja"
 
 #: ../nature/mate-nature.xml.in.in.h:10
 msgid "Two Wings"
-msgstr ""
+msgstr "Dva Krila"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr ""
+msgstr "Bubamara"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
@@ -95,11 +95,11 @@ msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
-msgstr ""
+msgstr "Kišnice"
 
 #: ../nature/mate-nature.xml.in.in.h:14
 msgid "Yellow Flower"
-msgstr ""
+msgstr "Žuti Cvijet"
 
 #: ../nature/mate-nature.xml.in.in.h:15
 msgid "Garden"
