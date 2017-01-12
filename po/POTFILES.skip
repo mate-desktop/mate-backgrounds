@@ -1,4 +1,6 @@
 abstract/mate-abstract.xml.in
 desktop/mate-desktop.xml.in
 nature/mate-nature.xml.in
-
+sub/abstract/mate-abstract.xml.in
+sub/desktop/mate-desktop.xml.in
+sub/nature/mate-nature.xml.in
