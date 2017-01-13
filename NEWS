@@ -1,22 +1,26 @@
-1.17.0
+### mate-backgrounds 1.17.0
 
    * Translations update
 
-1.16.0
+### mate-backgrounds 1.16.0
 
    * Translations update
 
-1.14.0
+### mate-backgrounds 1.14.0
+
    * Add new languages and sync translations with transiflex
    * Add Changelog generation
 
-1.12.0
+### mate-backgrounds 1.12.0
+
    * Sync translations with transifex
 
-1.10.0
+### mate-backgrounds 1.10.0
+
   * Add Ubuntu MATE wallpapers without branding, by Ubuntu MATE team
   * Add new MATE-Stripes-Dark.png, MATE-Stripes-Light.png wallpapers by hekel
 
-1.8.0
+### mate-backgrounds 1.8.0
+
   * Add new "Float into MATE" wallpaper by Rowen Stipe
   * Add artist tag in XML files
