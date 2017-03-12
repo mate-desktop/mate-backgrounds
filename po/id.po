@@ -4,7 +4,7 @@
 # 
 # Translators:
 # ahmad riza h nst <ari@160c.afraid.org>, 2005
-# Mohamad Hasan Al Banna <se7entime@protonmail.com>, 2012
+# Mohamad Hasan Al Banna <se7entime@openmailbox.org>, 2012
 # Muhammad Herdiansyah <herdiansyah@openmailbox.org>, 2016
 msgid ""
 msgstr ""
