@@ -3,6 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2017
 # Erzhan Shaniev <erzhan.jktl@gmail.com>, 2008
 # Moldabekov Margulan <moldabekov@gmail.com>, 2008
 msgid ""
@@ -10,7 +11,7 @@ msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2013-11-03 06:44+0000\n"
+"PO-Revision-Date: 2017-09-19 11:40+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: Kazakh (http://www.transifex.com/mate/MATE/language/kk/)\n"
 "MIME-Version: 1.0\n"
@@ -50,11 +51,11 @@ msgstr "Түсқағаз жоқ"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Green Traditional"
-msgstr ""
+msgstr "Жасыл дәстүрлі"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Stripes"
-msgstr ""
+msgstr "Жолақтар"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
