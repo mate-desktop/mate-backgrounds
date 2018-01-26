@@ -1,21 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# abuyop <abuyop@gmail.com>, 2013
-# Ahmed Noor Kader Mustajir Md Eusoff <sir.ade@gmail.com>, 2010
-# Puretech <terjemah.puretech@gmail.com>, 2012
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2017-09-19 11:40+0000\n"
-"Last-Translator: abuyop <abuyop@gmail.com>\n"
-"Language-Team: Malay (http://www.transifex.com/mate/MATE/language/ms/)\n"
+"POT-Creation-Date: 2017-11-28 10:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: abuyop <abuyop@gmail.com>, 2017\n"
+"Language-Team: Malay (https://www.transifex.com/mate/teams/13566/ms/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ms\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -47,15 +45,43 @@ msgstr "Gelombang"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "Tiada latar belakang desktop"
+msgstr "Tiada Latar Belakang Desktop"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Float into MATE"
+msgstr "MATE terapung"
+
+#: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Green Traditional"
 msgstr "Hijau Tradisional"
 
-#: ../desktop/mate-desktop.xml.in.in.h:3
+#: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
 msgstr "Jalur"
+
+#: ../desktop/mate-desktop.xml.in.in.h:5
+msgid "MATE Stripes Dark"
+msgstr "MATE Berjalur Gelap"
+
+#: ../desktop/mate-desktop.xml.in.in.h:6
+msgid "MATE Stripes Light"
+msgstr "MATE Berjalur Cerah"
+
+#: ../desktop/mate-desktop.xml.in.in.h:7
+msgid "Ubuntu MATE Cold"
+msgstr "Ubuntu MATE Sejuk"
+
+#: ../desktop/mate-desktop.xml.in.in.h:8
+msgid "Ubuntu MATE Dark"
+msgstr "Ubuntu MATE Gelap"
+
+#: ../desktop/mate-desktop.xml.in.in.h:9
+msgid "Ubuntu MATE Radioactive"
+msgstr "Ubuntu MATE Radioaktif"
+
+#: ../desktop/mate-desktop.xml.in.in.h:10
+msgid "Ubuntu MATE Warm"
+msgstr "Ubuntu MATE Hangat"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
@@ -93,7 +119,7 @@ msgstr "Kumbang Kura-kura"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr "Buta"
+msgstr "Bidai"
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"

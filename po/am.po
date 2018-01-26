@@ -1,19 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# samson <sambelet@yahoo.com>, 2013-2015
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2017-09-19 15:12+0000\n"
-"Last-Translator: samson <sambelet@yahoo.com>\n"
-"Language-Team: Amharic (http://www.transifex.com/mate/MATE/language/am/)\n"
+"POT-Creation-Date: 2017-11-28 10:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: samson <sambelet@yahoo.com>, 2017\n"
+"Language-Team: Amharic (https://www.transifex.com/mate/teams/13566/am/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: am\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -37,7 +37,7 @@ msgstr "ሐር "
 
 #: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
-msgstr "ፅጸደ"
+msgstr "ፀጸደ"
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
@@ -45,15 +45,43 @@ msgstr "ማዕበል "
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "ምንም የዴስክቶፕ መደብ የለም "
+msgstr "ምንም የ ዴስክቶፕ መደብ የለም "
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Float into MATE"
+msgstr "ተንሳፋፊ ሜት"
+
+#: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Green Traditional"
 msgstr "አረንጓዴ ባሕላዊ "
 
-#: ../desktop/mate-desktop.xml.in.in.h:3
+#: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
 msgstr "መስመር "
+
+#: ../desktop/mate-desktop.xml.in.in.h:5
+msgid "MATE Stripes Dark"
+msgstr "ሜት ባለ ጥቁር መስመር"
+
+#: ../desktop/mate-desktop.xml.in.in.h:6
+msgid "MATE Stripes Light"
+msgstr "ሜት ባለ ቀላል መስመር"
+
+#: ../desktop/mate-desktop.xml.in.in.h:7
+msgid "Ubuntu MATE Cold"
+msgstr "ኡቡንቱ ሜት"
+
+#: ../desktop/mate-desktop.xml.in.in.h:8
+msgid "Ubuntu MATE Dark"
+msgstr "ኡቡንቱ ሜት ጥቁር"
+
+#: ../desktop/mate-desktop.xml.in.in.h:9
+msgid "Ubuntu MATE Radioactive"
+msgstr "ኡቡንቱ ሜት ራዲዮ አክቲቭ"
+
+#: ../desktop/mate-desktop.xml.in.in.h:10
+msgid "Ubuntu MATE Warm"
+msgstr "ኡቡንቱ ሜት"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
@@ -95,7 +123,7 @@ msgstr "መሸፈኛ"
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
-msgstr "የዝናብ ጠብታዎች "
+msgstr "የ ዝናብ ጠብታዎች "
 
 #: ../nature/mate-nature.xml.in.in.h:14
 msgid "Yellow Flower"

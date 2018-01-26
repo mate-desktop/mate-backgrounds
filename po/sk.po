@@ -1,20 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# Ján Ďanovský <dagsoftware@yahoo.com>, 2013
-# Marcel Telka <marcel@telka.sk>, 2004, 2008, 2010
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2017-09-19 11:40+0000\n"
-"Last-Translator: Ján Ďanovský <dagsoftware@yahoo.com>\n"
-"Language-Team: Slovak (http://www.transifex.com/mate/MATE/language/sk/)\n"
+"POT-Creation-Date: 2017-11-28 10:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Dušan Kazik <prescott66@gmail.com>, 2018\n"
+"Language-Team: Slovak (https://www.transifex.com/mate/teams/13566/sk/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sk\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -46,22 +45,50 @@ msgstr "Vlny"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "Žiadne pozadie plochy"
+msgstr "Bez pozadia plochy"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Float into MATE"
+msgstr "Lietajúce MATE"
+
+#: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Green Traditional"
 msgstr "Tradičné zelené"
 
-#: ../desktop/mate-desktop.xml.in.in.h:3
+#: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
 msgstr "Pruhy"
+
+#: ../desktop/mate-desktop.xml.in.in.h:5
+msgid "MATE Stripes Dark"
+msgstr "Tmavé pruhy MATE"
+
+#: ../desktop/mate-desktop.xml.in.in.h:6
+msgid "MATE Stripes Light"
+msgstr "Svetlé pruhy MATE"
+
+#: ../desktop/mate-desktop.xml.in.in.h:7
+msgid "Ubuntu MATE Cold"
+msgstr "Chladné Ubuntu MATE"
+
+#: ../desktop/mate-desktop.xml.in.in.h:8
+msgid "Ubuntu MATE Dark"
+msgstr "Tmavé Ubuntu MATE"
+
+#: ../desktop/mate-desktop.xml.in.in.h:9
+msgid "Ubuntu MATE Radioactive"
+msgstr "Rádioaktívne Ubuntu MATE"
+
+#: ../desktop/mate-desktop.xml.in.in.h:10
+msgid "Ubuntu MATE Warm"
+msgstr "Teplé Ubuntu MATE"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr "Červený kvet"
+msgstr "Čerstvý kvet"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.

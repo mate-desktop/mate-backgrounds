@@ -1,20 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# Baris Cicek <baris@teamforce.name.tr>, 2006, 2008
-# mauron, 2012
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2017-09-19 11:40+0000\n"
-"Last-Translator: mauron\n"
-"Language-Team: Turkish (http://www.transifex.com/mate/MATE/language/tr/)\n"
+"POT-Creation-Date: 2017-11-28 10:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: mauron, 2017\n"
+"Language-Team: Turkish (https://www.transifex.com/mate/teams/13566/tr/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -22,15 +21,15 @@ msgstr ""
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr "Kavis"
+msgstr "Ark"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr "Akım"
+msgstr "Akış"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr "Lokma"
+msgstr "Yudum"
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
@@ -49,12 +48,40 @@ msgid "No Desktop Background"
 msgstr "Masaüstü Arkaplanı Yok"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Float into MATE"
+msgstr "MATE içine dal"
+
+#: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Green Traditional"
 msgstr "Geleneksel Yeşil"
 
-#: ../desktop/mate-desktop.xml.in.in.h:3
+#: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
 msgstr "Şeritler"
+
+#: ../desktop/mate-desktop.xml.in.in.h:5
+msgid "MATE Stripes Dark"
+msgstr "MATE Koyu Şeritler"
+
+#: ../desktop/mate-desktop.xml.in.in.h:6
+msgid "MATE Stripes Light"
+msgstr "MATE Hafif Şeritler"
+
+#: ../desktop/mate-desktop.xml.in.in.h:7
+msgid "Ubuntu MATE Cold"
+msgstr "Ubuntu MATE Soğuk"
+
+#: ../desktop/mate-desktop.xml.in.in.h:8
+msgid "Ubuntu MATE Dark"
+msgstr "Ubuntu MATE Koyu"
+
+#: ../desktop/mate-desktop.xml.in.in.h:9
+msgid "Ubuntu MATE Radioactive"
+msgstr "Ubuntu MATE Radyoaktif"
+
+#: ../desktop/mate-desktop.xml.in.in.h:10
+msgid "Ubuntu MATE Warm"
+msgstr "Ubuntu MATE Ilık"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.

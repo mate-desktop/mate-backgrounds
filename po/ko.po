@@ -1,19 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# Seong-ho Cho <darkcircle.0426@gmail.com>, 2014
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2017-09-19 11:40+0000\n"
-"Last-Translator: Seong-ho Cho <darkcircle.0426@gmail.com>\n"
-"Language-Team: Korean (http://www.transifex.com/mate/MATE/language/ko/)\n"
+"POT-Creation-Date: 2017-11-28 10:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>, 2017\n"
+"Language-Team: Korean (https://www.transifex.com/mate/teams/13566/ko/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -21,39 +21,67 @@ msgstr ""
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr "호 곡선"
+msgstr "아크"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr "흐름"
+msgstr "플로우"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr "억누름"
+msgstr "걸프"
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
-msgstr "비단결"
+msgstr "실크"
 
 #: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
-msgstr "비틀림"
+msgstr "스프링"
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
-msgstr "물결"
+msgstr "웨이브"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "데스크톱 배경 없음"
+msgstr "배경화면 없음"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
-msgid "Green Traditional"
-msgstr "전통의 푸른색"
+msgid "Float into MATE"
+msgstr "마테에 띄우기"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
+msgid "Green Traditional"
+msgstr "마테 전통 녹색"
+
+#: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
 msgstr "줄무늬"
+
+#: ../desktop/mate-desktop.xml.in.in.h:5
+msgid "MATE Stripes Dark"
+msgstr "마테 줄무늬 어둔 색"
+
+#: ../desktop/mate-desktop.xml.in.in.h:6
+msgid "MATE Stripes Light"
+msgstr "마테 줄무늬 밝은 색"
+
+#: ../desktop/mate-desktop.xml.in.in.h:7
+msgid "Ubuntu MATE Cold"
+msgstr "우분투 무테 콜드"
+
+#: ../desktop/mate-desktop.xml.in.in.h:8
+msgid "Ubuntu MATE Dark"
+msgstr "우분투 마테 어둔 색"
+
+#: ../desktop/mate-desktop.xml.in.in.h:9
+msgid "Ubuntu MATE Radioactive"
+msgstr "우분투 마테 방사선형"
+
+#: ../desktop/mate-desktop.xml.in.in.h:10
+msgid "Ubuntu MATE Warm"
+msgstr "우분투 마테 따뜻한 색"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
@@ -67,11 +95,11 @@ msgstr "상큼한 꽃"
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr "잔디밭"
+msgstr "녹색 초원"
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
-msgstr "물"
+msgstr "아쿠아"
 
 #: ../nature/mate-nature.xml.in.in.h:8
 msgid "Dune"
@@ -99,7 +127,7 @@ msgstr "빗방울"
 
 #: ../nature/mate-nature.xml.in.in.h:14
 msgid "Yellow Flower"
-msgstr "노란 꽃"
+msgstr "노랑꽃"
 
 #: ../nature/mate-nature.xml.in.in.h:15
 msgid "Garden"
@@ -107,4 +135,4 @@ msgstr "정원"
 
 #: ../nature/mate-nature.xml.in.in.h:16
 msgid "Wood"
-msgstr "나무결"
+msgstr "나뭇결"

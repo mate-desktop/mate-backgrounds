@@ -1,22 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# Bogusław B. <penknife1@gmail.com>, 2012
-# Piotr Drąg <piotrdrag@gmail.com>, 2017
-# Piotr Zaryk <pzaryk@aviary.pl>, 2008
-# Robert Strojec <ross606@gmail.com>, 2012
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2017-09-19 11:40+0000\n"
-"Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
-"Language-Team: Polish (http://www.transifex.com/mate/MATE/language/pl/)\n"
+"POT-Creation-Date: 2017-11-28 10:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Przemek P <ppjg@dami.pl>, 2017\n"
+"Language-Team: Polish (https://www.transifex.com/mate/teams/13566/pl/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
@@ -28,11 +25,11 @@ msgstr "Łuk"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr "Przypływ"
+msgstr ""
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr "Łyk"
+msgstr ""
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
@@ -48,29 +45,57 @@ msgstr "Fale"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "Brak tła pulpitu"
+msgstr "Bez tła"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
-msgid "Green Traditional"
-msgstr "Tradycyjna zieleń"
+msgid "Float into MATE"
+msgstr ""
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
+msgid "Green Traditional"
+msgstr "Zielony"
+
+#: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
-msgstr "Paski"
+msgstr "Pasy"
+
+#: ../desktop/mate-desktop.xml.in.in.h:5
+msgid "MATE Stripes Dark"
+msgstr "MATE ciemne pasy"
+
+#: ../desktop/mate-desktop.xml.in.in.h:6
+msgid "MATE Stripes Light"
+msgstr "MATE jasne pasy"
+
+#: ../desktop/mate-desktop.xml.in.in.h:7
+msgid "Ubuntu MATE Cold"
+msgstr "Ubuntu MATE zimny"
+
+#: ../desktop/mate-desktop.xml.in.in.h:8
+msgid "Ubuntu MATE Dark"
+msgstr "Ubuntu MATE ciemny"
+
+#: ../desktop/mate-desktop.xml.in.in.h:9
+msgid "Ubuntu MATE Radioactive"
+msgstr "Ubuntu MATE promieniotwórczy"
+
+#: ../desktop/mate-desktop.xml.in.in.h:10
+msgid "Ubuntu MATE Warm"
+msgstr "Ubuntu MATE gorący"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr "Kwiat"
+msgstr "Świeży kwiat"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr "Zielona łąka"
+msgstr "Łąka"
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
@@ -86,15 +111,15 @@ msgstr "Burza"
 
 #: ../nature/mate-nature.xml.in.in.h:10
 msgid "Two Wings"
-msgstr "Dmuchawce"
+msgstr "Dwa skrzydła"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr "Biedronka"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr "Żaluzje"
+msgstr ""
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
@@ -110,4 +135,4 @@ msgstr "Ogród"
 
 #: ../nature/mate-nature.xml.in.in.h:16
 msgid "Wood"
-msgstr "Drewno"
+msgstr ""

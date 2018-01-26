@@ -1,23 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER, 2004
-# Francisco Javier F. Serrador <serrador@cvs.gnome.org>, 2005
-# Jorge González <jorgegonz@svn.gnome.org>, 2008
-# Lluís Tusquellas <lutusq@gmail.com>, 2012
-# Lluís Tusquellas <lutusq@gmail.com>, 2012
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2017-09-19 11:40+0000\n"
-"Last-Translator: Lluís Tusquellas <lutusq@gmail.com>\n"
-"Language-Team: Spanish (http://www.transifex.com/mate/MATE/language/es/)\n"
+"POT-Creation-Date: 2017-11-28 10:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Adolfo Jayme-Barrientos, 2017\n"
+"Language-Team: Spanish (https://www.transifex.com/mate/teams/13566/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -33,7 +29,7 @@ msgstr "Flujo"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr "Gulp"
+msgstr "Bocanada"
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
@@ -41,23 +37,51 @@ msgstr "Seda"
 
 #: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
-msgstr "Elástico"
+msgstr "Primavera"
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
-msgstr "Ondas"
+msgstr "Olas"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "No hay fondo en el escritorio"
+msgstr "Ningún fondo de escritorio"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Float into MATE"
+msgstr "Flotar en MATE"
+
+#: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Green Traditional"
 msgstr "Verde tradicional"
 
-#: ../desktop/mate-desktop.xml.in.in.h:3
+#: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
-msgstr "Bandas"
+msgstr "Franjas"
+
+#: ../desktop/mate-desktop.xml.in.in.h:5
+msgid "MATE Stripes Dark"
+msgstr "Franjas de MATE, oscuro"
+
+#: ../desktop/mate-desktop.xml.in.in.h:6
+msgid "MATE Stripes Light"
+msgstr "Franjas de MATE, claro"
+
+#: ../desktop/mate-desktop.xml.in.in.h:7
+msgid "Ubuntu MATE Cold"
+msgstr "Ubuntu MATE, frío"
+
+#: ../desktop/mate-desktop.xml.in.in.h:8
+msgid "Ubuntu MATE Dark"
+msgstr "Ubuntu MATE, oscuro"
+
+#: ../desktop/mate-desktop.xml.in.in.h:9
+msgid "Ubuntu MATE Radioactive"
+msgstr "Ubuntu MATE, radioactivo"
+
+#: ../desktop/mate-desktop.xml.in.in.h:10
+msgid "Ubuntu MATE Warm"
+msgstr "Ubuntu MATE, cálido"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
@@ -95,7 +119,7 @@ msgstr "Mariquita"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr "Cortinas"
+msgstr "Persianas"
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"

@@ -1,25 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# Kamil Páral <ripper42@gmail.com>, 2008
-# Lukas Novotny <lukasnov@cvs.gnome.org>, 2006
-# Michal Procházka <mich.procha@seznam.cz>, 2012
-# Miloslav Trmač <mitr@volny.cz>, 2004, 2005
-# Ondřej Kolín <ondrej.kolin@gmail.com>, 2012
-# Pavel Šefránek <ps@pjoul.cz>, 2008
-# Stanislav Kučera <inactive+kacernator@transifex.com>, 2015
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2017-09-19 11:40+0000\n"
-"Last-Translator: Stanislav Kučera <inactive+kacernator@transifex.com>\n"
-"Language-Team: Czech (http://www.transifex.com/mate/MATE/language/cs/)\n"
+"POT-Creation-Date: 2017-11-28 10:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: LiberteCzech <liberte.czech@gmail.com>, 2017\n"
+"Language-Team: Czech (https://www.transifex.com/mate/teams/13566/cs/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
@@ -31,7 +25,7 @@ msgstr "Oblouk"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr "Téci, plynout"
+msgstr "Plynout"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
@@ -51,22 +45,50 @@ msgstr "Vlny"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "Žádné pozadí plochy"
+msgstr "Žádné pozadí pracovní plochy"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
-msgid "Green Traditional"
-msgstr "Zelené tradiční"
+msgid "Float into MATE"
+msgstr "Plovoucí logo MATE"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
+msgid "Green Traditional"
+msgstr "Tradiční zelená"
+
+#: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
 msgstr "Pruhy"
+
+#: ../desktop/mate-desktop.xml.in.in.h:5
+msgid "MATE Stripes Dark"
+msgstr "Tmavé pruhy MATE"
+
+#: ../desktop/mate-desktop.xml.in.in.h:6
+msgid "MATE Stripes Light"
+msgstr "Světlé pruhy MATE"
+
+#: ../desktop/mate-desktop.xml.in.in.h:7
+msgid "Ubuntu MATE Cold"
+msgstr "Ubuntu MATE Chladné"
+
+#: ../desktop/mate-desktop.xml.in.in.h:8
+msgid "Ubuntu MATE Dark"
+msgstr "Ubuntu MATE Tmavé"
+
+#: ../desktop/mate-desktop.xml.in.in.h:9
+msgid "Ubuntu MATE Radioactive"
+msgstr "Ubuntu MATE Radioaktivní"
+
+#: ../desktop/mate-desktop.xml.in.in.h:10
+msgid "Ubuntu MATE Warm"
+msgstr "Ubuntu MATE Teplé"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr "Rozkvět"
+msgstr "Čerstvé květiny"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
@@ -97,7 +119,7 @@ msgstr "Slunéčko sedmitečné"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr "Zástěna"
+msgstr "Žaluzie"
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
@@ -109,7 +131,7 @@ msgstr "Žlutá květina"
 
 #: ../nature/mate-nature.xml.in.in.h:15
 msgid "Garden"
-msgstr "Na zahradě"
+msgstr "Zahrada"
 
 #: ../nature/mate-nature.xml.in.in.h:16
 msgid "Wood"
