@@ -1,17 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Amanpreet Singh Alam <aalam@users.sf.net>, 2004, 2005, 2006, 2009
+# Stefano Karapetsas <stefano@karapetsas.com>, 2018
+# 
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2017-09-19 11:40+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
-"Language-Team: Panjabi (Punjabi) (http://www.transifex.com/mate/MATE/language/pa/)\n"
+"POT-Creation-Date: 2018-03-16 15:01+0100\n"
+"PO-Revision-Date: 2018-03-11 16:27+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>, 2018\n"
+"Language-Team: Panjabi (Punjabi) (https://www.transifex.com/mate/teams/13566/pa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -45,14 +48,42 @@ msgstr "ਲਹਿਰਾਂ"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr ""
+msgstr "ਕੋਈ ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਂਡ ਨਹੀਂ"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
-msgid "Green Traditional"
+msgid "Float into MATE"
 msgstr ""
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
+msgid "Green Traditional"
+msgstr ""
+
+#: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
+msgstr ""
+
+#: ../desktop/mate-desktop.xml.in.in.h:5
+msgid "MATE Stripes Dark"
+msgstr ""
+
+#: ../desktop/mate-desktop.xml.in.in.h:6
+msgid "MATE Stripes Light"
+msgstr ""
+
+#: ../desktop/mate-desktop.xml.in.in.h:7
+msgid "Ubuntu MATE Cold"
+msgstr ""
+
+#: ../desktop/mate-desktop.xml.in.in.h:8
+msgid "Ubuntu MATE Dark"
+msgstr ""
+
+#: ../desktop/mate-desktop.xml.in.in.h:9
+msgid "Ubuntu MATE Radioactive"
+msgstr ""
+
+#: ../desktop/mate-desktop.xml.in.in.h:10
+msgid "Ubuntu MATE Warm"
 msgstr ""
 
 #. Translators: This is the name of a desktop background image that shows an

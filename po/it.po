@@ -3,14 +3,18 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Giuseppe Pignataro (Fastbyte01) <rogepix@gmail.com>, 2018
+# l3nn4rt, 2018
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-28 10:47+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Giuseppe Pignataro (Fasbyte01) <rogepix@gmail.com>, 2017\n"
+"POT-Creation-Date: 2018-03-16 15:01+0100\n"
+"PO-Revision-Date: 2018-03-11 16:27+0000\n"
+"Last-Translator: l3nn4rt, 2018\n"
 "Language-Team: Italian (https://www.transifex.com/mate/teams/13566/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,27 +25,27 @@ msgstr ""
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr "Arc"
+msgstr "Arco"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr ""
+msgstr "Flusso"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr ""
+msgstr "Gulp"
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
-msgstr ""
+msgstr "Seta"
 
 #: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
-msgstr ""
+msgstr "Primavera"
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
-msgstr ""
+msgstr "Onde"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
@@ -49,7 +53,7 @@ msgstr "Nessun sfondo desktop"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Float into MATE"
-msgstr ""
+msgstr "Fluttua in MATE"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Green Traditional"
@@ -69,70 +73,70 @@ msgstr "MATE strisce chiare"
 
 #: ../desktop/mate-desktop.xml.in.in.h:7
 msgid "Ubuntu MATE Cold"
-msgstr ""
+msgstr "Ubuntu MATE Freddo"
 
 #: ../desktop/mate-desktop.xml.in.in.h:8
 msgid "Ubuntu MATE Dark"
-msgstr ""
+msgstr "Ubuntu MATE Scuro"
 
 #: ../desktop/mate-desktop.xml.in.in.h:9
 msgid "Ubuntu MATE Radioactive"
-msgstr ""
+msgstr "Ubuntu MATE Radioattivo"
 
 #: ../desktop/mate-desktop.xml.in.in.h:10
 msgid "Ubuntu MATE Warm"
-msgstr ""
+msgstr "Ubuntu MATE Caldo"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr ""
+msgstr "Fiore fresco"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr ""
+msgstr "Prato verde"
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
-msgstr ""
+msgstr "Aqua"
 
 #: ../nature/mate-nature.xml.in.in.h:8
 msgid "Dune"
-msgstr ""
+msgstr "Dune"
 
 #: ../nature/mate-nature.xml.in.in.h:9
 msgid "Storm"
-msgstr ""
+msgstr "Tempesta"
 
 #: ../nature/mate-nature.xml.in.in.h:10
 msgid "Two Wings"
-msgstr ""
+msgstr "Bocca di leone"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr ""
+msgstr "Coccinella"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr ""
+msgstr "Solchi"
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
-msgstr ""
+msgstr "Pioggia"
 
 #: ../nature/mate-nature.xml.in.in.h:14
 msgid "Yellow Flower"
-msgstr ""
+msgstr "Fiore giallo"
 
 #: ../nature/mate-nature.xml.in.in.h:15
 msgid "Garden"
-msgstr ""
+msgstr "Giardino"
 
 #: ../nature/mate-nature.xml.in.in.h:16
 msgid "Wood"
-msgstr ""
+msgstr "Legno"

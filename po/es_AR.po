@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Любомир Василев, 2018
+# Renzo Sparta <exequiel0210@gmail.com>, 2019
 # 
 #, fuzzy
 msgid ""
@@ -13,129 +13,129 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-16 15:01+0100\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Любомир Василев, 2018\n"
-"Language-Team: Bulgarian (https://www.transifex.com/mate/teams/13566/bg/)\n"
+"Last-Translator: Renzo Sparta <exequiel0210@gmail.com>, 2019\n"
+"Language-Team: Spanish (Argentina) (https://www.transifex.com/mate/teams/13566/es_AR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bg\n"
+"Language: es_AR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: ../abstract/mate-abstract.xml.in.in.h:2
 msgid "Arc"
-msgstr "Дъга"
+msgstr "Arc"
 
 #: ../abstract/mate-abstract.xml.in.in.h:3
 msgid "Flow"
-msgstr "Гълъбов поток"
+msgstr "Flow"
 
 #: ../abstract/mate-abstract.xml.in.in.h:4
 msgid "Gulp"
-msgstr "Син поток"
+msgstr "Gulp"
 
 #: ../abstract/mate-abstract.xml.in.in.h:5
 msgid "Silk"
-msgstr "Портокалова коприна"
+msgstr "Silk"
 
 #: ../abstract/mate-abstract.xml.in.in.h:6
 msgid "Spring"
-msgstr "Зелена пролет"
+msgstr "Spring"
 
 #: ../abstract/mate-abstract.xml.in.in.h:7
 msgid "Waves"
-msgstr "Сини вълни"
+msgstr "Waves"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "Без фон на работния плот"
+msgstr "No hay fondo de escritorio"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
 msgid "Float into MATE"
-msgstr "Плаващ MATE"
+msgstr "Float into MATE"
 
 #: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Green Traditional"
-msgstr "Зелен традиционен"
+msgstr "Verde Tradicional"
 
 #: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
-msgstr "Вертикални райета"
+msgstr "Rayas"
 
 #: ../desktop/mate-desktop.xml.in.in.h:5
 msgid "MATE Stripes Dark"
-msgstr "Тъмни райета на MATE"
+msgstr "MATE Stripes Dark"
 
 #: ../desktop/mate-desktop.xml.in.in.h:6
 msgid "MATE Stripes Light"
-msgstr "Светли райета на MATE"
+msgstr "MATE Stripes Light"
 
 #: ../desktop/mate-desktop.xml.in.in.h:7
 msgid "Ubuntu MATE Cold"
-msgstr "Ubuntu MATE – студ"
+msgstr "Ubuntu MATE Cold"
 
 #: ../desktop/mate-desktop.xml.in.in.h:8
 msgid "Ubuntu MATE Dark"
-msgstr "Ubuntu MATE – тъмнина"
+msgstr "Ubuntu MATE Dark"
 
 #: ../desktop/mate-desktop.xml.in.in.h:9
 msgid "Ubuntu MATE Radioactive"
-msgstr "Ubuntu MATE – радиоактивност"
+msgstr "Ubuntu MATE Radioactive"
 
 #: ../desktop/mate-desktop.xml.in.in.h:10
 msgid "Ubuntu MATE Warm"
-msgstr "Ubuntu MATE – топлина"
+msgstr "Ubuntu MATE Warm"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr "Оранжево цвете"
+msgstr "Fresh Flower"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr "Зелена морава"
+msgstr "Green Meadow"
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
-msgstr "Сивкава вода"
+msgstr "Aqua"
 
 #: ../nature/mate-nature.xml.in.in.h:8
 msgid "Dune"
-msgstr "Дюна с осили"
+msgstr "Dune"
 
 #: ../nature/mate-nature.xml.in.in.h:9
 msgid "Storm"
-msgstr "Оловна буря"
+msgstr "Storm"
 
 #: ../nature/mate-nature.xml.in.in.h:10
 msgid "Two Wings"
-msgstr "Бели пухчета"
+msgstr "Two Wings"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr "Калинка със синчец"
+msgstr "Lady Bird"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr "Зелен параван"
+msgstr "Blinds"
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
-msgstr "Зеленикава роса"
+msgstr "Rain Drops"
 
 #: ../nature/mate-nature.xml.in.in.h:14
 msgid "Yellow Flower"
-msgstr "Жълто цвете"
+msgstr "Yellow Flower"
 
 #: ../nature/mate-nature.xml.in.in.h:15
 msgid "Garden"
-msgstr "Керемидено цвете"
+msgstr "Garden"
 
 #: ../nature/mate-nature.xml.in.in.h:16
 msgid "Wood"
-msgstr "Избеляла дървесина"
+msgstr "Wood"

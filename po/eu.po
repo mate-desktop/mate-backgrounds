@@ -1,18 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Asier Iturralde Sarasola <asier.iturralde@gmail.com>, 2012
-# Iñaki Larrañaga Murgoitio  <dooteo@euskalgnu.org>, 2005, 2006, 2008, 2010
+# Asier Iturralde Sarasola <asier.iturralde@gmail.com>, 2018
+# Stefano Karapetsas <stefano@karapetsas.com>, 2018
+# 
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-07 12:01+0200\n"
-"PO-Revision-Date: 2017-09-19 11:40+0000\n"
-"Last-Translator: Asier Iturralde Sarasola <asier.iturralde@gmail.com>\n"
-"Language-Team: Basque (http://www.transifex.com/mate/MATE/language/eu/)\n"
+"POT-Creation-Date: 2018-03-16 15:01+0100\n"
+"PO-Revision-Date: 2018-03-11 16:27+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>, 2018\n"
+"Language-Team: Basque (https://www.transifex.com/mate/teams/13566/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -46,29 +49,57 @@ msgstr "Uhinak"
 
 #: ../desktop/mate-desktop.xml.in.in.h:1
 msgid "No Desktop Background"
-msgstr "Mahaigainaren atzeko-planorik ez"
+msgstr "Mahaigaineko atzeko planorik ez"
 
 #: ../desktop/mate-desktop.xml.in.in.h:2
+msgid "Float into MATE"
+msgstr ""
+
+#: ../desktop/mate-desktop.xml.in.in.h:3
 msgid "Green Traditional"
 msgstr "Berde tradizionala"
 
-#: ../desktop/mate-desktop.xml.in.in.h:3
+#: ../desktop/mate-desktop.xml.in.in.h:4
 msgid "Stripes"
 msgstr "Marrak"
+
+#: ../desktop/mate-desktop.xml.in.in.h:5
+msgid "MATE Stripes Dark"
+msgstr "MATE marra ilunak"
+
+#: ../desktop/mate-desktop.xml.in.in.h:6
+msgid "MATE Stripes Light"
+msgstr "MATE marra argiak"
+
+#: ../desktop/mate-desktop.xml.in.in.h:7
+msgid "Ubuntu MATE Cold"
+msgstr "Ubuntu MATE hotza"
+
+#: ../desktop/mate-desktop.xml.in.in.h:8
+msgid "Ubuntu MATE Dark"
+msgstr "Ubuntu MATE iluna"
+
+#: ../desktop/mate-desktop.xml.in.in.h:9
+msgid "Ubuntu MATE Radioactive"
+msgstr "Ubuntu MATE erradioaktiboa"
+
+#: ../desktop/mate-desktop.xml.in.in.h:10
+msgid "Ubuntu MATE Warm"
+msgstr "Ubuntu MATE epela"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:3
 msgid "Fresh Flower"
-msgstr "Lore freskoa"
+msgstr "Lorea"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/mate-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr "Belardi berdea"
+msgstr "Larre berdea"
 
 #: ../nature/mate-nature.xml.in.in.h:7
 msgid "Aqua"
@@ -84,15 +115,15 @@ msgstr "Ekaitza"
 
 #: ../nature/mate-nature.xml.in.in.h:10
 msgid "Two Wings"
-msgstr "Bi hego"
+msgstr "Bi hegal"
 
 #: ../nature/mate-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr "Mari-gorringo"
+msgstr "Marigorringoa"
 
 #: ../nature/mate-nature.xml.in.in.h:12
 msgid "Blinds"
-msgstr "Hosto-pertsianak"
+msgstr "Pertsianak"
 
 #: ../nature/mate-nature.xml.in.in.h:13
 msgid "Rain Drops"
@@ -108,4 +139,4 @@ msgstr "Lorategia"
 
 #: ../nature/mate-nature.xml.in.in.h:16
 msgid "Wood"
-msgstr "Egurra"
+msgstr "Zura"
