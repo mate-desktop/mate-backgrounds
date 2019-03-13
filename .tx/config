@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
  
-[MATE.master--mate-backgrounds]
+[MATE.1-22--mate-backgrounds]
 file_filter = po/<lang>.po
 source_file = po/mate-backgrounds.pot
 source_lang = en
