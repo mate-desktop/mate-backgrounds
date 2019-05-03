@@ -16,7 +16,7 @@ install:
   - ./docker-build --name ${DISTRO} --config .travis.yml --install
 
 script:
-  - ./docker-build --name ${DISTRO} --verbose --config .travis.yml --build autotools
+  - ./docker-build --name ${DISTRO} --verbose --config .travis.yml --build meson --build autotools
 
 deploy:
   - provider: script
@@ -42,6 +42,7 @@ requires:
     - git
     - make
     - mate-common
+    - meson
     - which
 
   debian:
@@ -52,6 +53,7 @@ requires:
     - libglib2.0-dev
     - make
     - mate-common
+    - meson
 
   fedora:
     # Useful URL: https://src.fedoraproject.org/cgit/rpms/mate-backgrounds.git
@@ -59,6 +61,7 @@ requires:
     - git
     - make
     - mate-common
+    - meson
     - redhat-rpm-config
 
   ubuntu:
@@ -67,18 +70,21 @@ requires:
     - libglib2.0-dev
     - make
     - mate-common
+    - meson
 
 variables:
   - CFLAGS="-Wall -Werror=format-security"
 
-before_scripts:
-  - if [ ${DISTRO_NAME} == "debian" ];then
-  -     curl -Ls -o debian.sh https://github.com/mate-desktop/mate-dev-scripts/raw/master/travis/debian.sh
-  -     bash ./debian.sh
-  - fi
-
 after_scripts:
-  - make distcheck
+  - if [ ${BUILD_TYPE} == "autotools" ];then
+  -     if [ ${DISTRO_NAME} == "debian" ];then
+  -         curl -Ls -o debian.sh https://github.com/mate-desktop/mate-dev-scripts/raw/master/travis/debian.sh
+  -         bash ./debian.sh
+  -     fi
+  -     make distcheck
+  - else
+  -     ninja -C $BUILD_DIR dist
+  - fi
 
 releases:
   draft: false
