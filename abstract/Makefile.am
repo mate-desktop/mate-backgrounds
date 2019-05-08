@@ -8,11 +8,12 @@ background_DATA = \
 	Spring.png \
 	Waves.png
 
-
 metadata_in_files = mate-abstract.xml.in
 metadatadir = $(datadir)/mate-background-properties
 metadata_DATA = $(metadata_in_files:.xml.in=.xml)
-@INTLTOOL_XML_RULE@
+
+$(metadata_DATA): $(metadata_in_files)
+	$(AM_V_GEN) GETTEXTDATADIR=$(top_srcdir) $(MSGFMT) --xml --template $< -d $(top_srcdir)/po -o $@
 
 noinst_DATA = mate-abstract.xml.in
 CLEANFILES = mate-abstract.xml mate-abstract.xml.in

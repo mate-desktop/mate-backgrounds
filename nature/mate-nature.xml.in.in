@@ -4,7 +4,7 @@
 	<wallpaper deleted="false">
 	<!-- Translators: This is the name of a desktop background image that shows an orange/red flower.
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Fresh Flower</_name>
+		<name>Fresh Flower</name>
 		<filename>@datadir@/backgrounds/mate/nature/FreshFlower.jpg</filename>
 		<options>zoom</options>
 		<artist>Jens Ansorg</artist>
@@ -12,67 +12,67 @@
 	<wallpaper deleted="false">
 		<!-- Translators: This is the name of a desktop background image that shows a green meadow.
 		  You might want to translate it into the equivalent words of your language  -->
-		<_name>Green Meadow</_name>
+		<name>Green Meadow</name>
 		<filename>@datadir@/backgrounds/mate/nature/GreenMeadow.jpg</filename>
 		<options>zoom</options>
 		<artist>Timothy Schellhase, Lapo Calamandrei</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Aqua</_name>
+		<name>Aqua</name>
 		<filename>@datadir@/backgrounds/mate/nature/Aqua.jpg</filename>
 		<options>zoom</options>
 		<artist>Charles Barbin</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Dune</_name>
+		<name>Dune</name>
 		<filename>@datadir@/backgrounds/mate/nature/Dune.jpg</filename>
 		<options>zoom</options>
 		<artist>Marco Cogoni, Hylke Bons</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Storm</_name>
+		<name>Storm</name>
 		<filename>@datadir@/backgrounds/mate/nature/Storm.jpg</filename>
 		<options>zoom</options>
 		<artist>Sergey Nazarov</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Two Wings</_name>
+		<name>Two Wings</name>
 		<filename>@datadir@/backgrounds/mate/nature/TwoWings.jpg</filename>
 		<options>zoom</options>
 		<artist>Charles Barbin, Hylke Bons</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Lady Bird</_name>
+		<name>Lady Bird</name>
 		<filename>@datadir@/backgrounds/mate/nature/LadyBird.jpg</filename>
 		<options>zoom</options>
 		<artist>Charles Barbin</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Blinds</_name>
+		<name>Blinds</name>
 		<filename>@datadir@/backgrounds/mate/nature/Blinds.jpg</filename>
 		<options>zoom</options>
 		<artist>Lennart Poettering, Andrea Cimitan</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Rain Drops</_name>
+		<name>Rain Drops</name>
 		<filename>@datadir@/backgrounds/mate/nature/RainDrops.jpg</filename>
 		<options>zoom</options>
 		<artist>blackcombwhistler07</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Yellow Flower</_name>
+		<name>Yellow Flower</name>
 		<filename>@datadir@/backgrounds/mate/nature/YellowFlower.jpg</filename>
 		<options>zoom</options>
 		<artist>Charles Barbin</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Garden</_name>
+		<name>Garden</name>
 		<filename>@datadir@/backgrounds/mate/nature/Garden.jpg</filename>
 		<options>zoom</options>
 		<artist>Charles Barbin</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Wood</_name>
+		<name>Wood</name>
 		<filename>@datadir@/backgrounds/mate/nature/Wood.jpg</filename>
 		<options>zoom</options>
 		<artist>Jean-François Fortin Tam</artist>

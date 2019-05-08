@@ -3,7 +3,7 @@
 <wallpapers>
 	<wallpaper deleted="false">
 		<!-- From http://code.google.com/p/gnome-colors/ -->
-		<_name>Arc</_name>
+		<name>Arc</name>
 		<filename>@datadir@/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
@@ -12,7 +12,7 @@
 		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Flow</_name>
+		<name>Flow</name>
 		<filename>@datadir@/backgrounds/mate/abstract/Flow.png</filename>
 		<options>zoom</options>
 		<shade_type>horizontal-gradient</shade_type>
@@ -22,7 +22,7 @@
 		<artist>Daniel Galleguillos, Hylke Bons</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Gulp</_name>
+		<name>Gulp</name>
 		<filename>@datadir@/backgrounds/mate/abstract/Gulp.png</filename>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#627F5A</pcolor>
@@ -31,7 +31,7 @@
 		<artist>Daniel Galleguillos, Hylke Bons</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Silk</_name>
+		<name>Silk</name>
 		<filename>@datadir@/backgrounds/mate/abstract/Silk.png</filename>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
@@ -40,7 +40,7 @@
 		<artist>Patryk Zawadzki</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Spring</_name>
+		<name>Spring</name>
 		<filename>@datadir@/backgrounds/mate/abstract/Spring.png</filename>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
@@ -49,7 +49,7 @@
 		<artist>Patryk Zawadzki</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Waves</_name>
+		<name>Waves</name>
 		<filename>@datadir@/backgrounds/mate/abstract/Waves.png</filename>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
