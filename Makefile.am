@@ -1,4 +1,4 @@
-SUBDIRS = abstract desktop nature po
+SUBDIRS = po abstract desktop nature
 
 dist-hook:
 	@if test -d "$(srcdir)/.git"; \
@@ -17,12 +17,8 @@ dist-hook:
 	fi
 
 EXTRA_DIST = \
+	its \
 	autogen.sh
-
-DISTCLEANFILES = \
-	intltool-extract \
-	intltool-merge \
-	intltool-update
 
 MAINTAINERCLEANFILES = \
 	Makefile.in \
@@ -31,9 +27,6 @@ MAINTAINERCLEANFILES = \
 	configure \
 	depcomp \
 	install-sh \
-	intltool-extract.in \
-	intltool-merge.in \
-	intltool-update.in \
 	missing \
 	mkinstalldirs
 

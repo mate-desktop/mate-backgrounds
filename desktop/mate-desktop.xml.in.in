@@ -2,7 +2,7 @@
 <!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
-		<_name>No Desktop Background</_name>
+		<name>No Desktop Background</name>
 		<filename>(none)</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
@@ -10,19 +10,19 @@
 		<scolor>#627F5A</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Float into MATE</_name>
+		<name>Float into MATE</name>
 		<filename>@datadir@/backgrounds/mate/desktop/Float-into-MATE.png</filename>
 		<options>zoom</options>
 		<artist>Rowen Stipe</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Green Traditional</_name>
+		<name>Green Traditional</name>
 		<filename>@datadir@/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
 		<options>zoom</options>
 		<artist>l0r4n0n</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Stripes</_name>
+		<name>Stripes</name>
 		<filename>@datadir@/backgrounds/mate/desktop/Stripes.png</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
@@ -31,7 +31,7 @@
 		<artist>Jakub Steiner</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>MATE Stripes Dark</_name>
+		<name>MATE Stripes Dark</name>
 		<filename>@datadir@/backgrounds/mate/desktop/MATE-Stripes-Dark.png</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
@@ -40,7 +40,7 @@
 		<artist>Adam Erdman</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>MATE Stripes Light</_name>
+		<name>MATE Stripes Light</name>
 		<filename>@datadir@/backgrounds/mate/desktop/MATE-Stripes-Light.png</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
@@ -49,25 +49,25 @@
 		<artist>Adam Erdman</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Ubuntu MATE Cold</_name>
+		<name>Ubuntu MATE Cold</name>
 		<filename>@datadir@/backgrounds/mate/desktop/Ubuntu-Mate-Cold-no-logo.png</filename>
 		<options>zoom</options>
 		<artist>Goce Mitevski</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Ubuntu MATE Dark</_name>
+		<name>Ubuntu MATE Dark</name>
 		<filename>@datadir@/backgrounds/mate/desktop/Ubuntu-Mate-Dark-no-logo.png</filename>
 		<options>zoom</options>
 		<artist>Goce Mitevski</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Ubuntu MATE Radioactive</_name>
+		<name>Ubuntu MATE Radioactive</name>
 		<filename>@datadir@/backgrounds/mate/desktop/Ubuntu-Mate-Radioactive-no-logo.png</filename>
 		<options>zoom</options>
 		<artist>Goce Mitevski</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<_name>Ubuntu MATE Warm</_name>
+		<name>Ubuntu MATE Warm</name>
 		<filename>@datadir@/backgrounds/mate/desktop/Ubuntu-Mate-Warm-no-logo.png</filename>
 		<options>zoom</options>
 		<artist>Goce Mitevski</artist>
