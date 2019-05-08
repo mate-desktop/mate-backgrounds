@@ -47,6 +47,7 @@ requires:
   debian:
     # Useful URL: https://github.com/mate-desktop/debian-packages
     # Useful URL: https://salsa.debian.org/debian-mate-team/mate-backgrounds
+    - autopoint
     - git
     - libglib2.0-dev
     - make
@@ -61,6 +62,7 @@ requires:
     - redhat-rpm-config
 
   ubuntu:
+    - autopoint
     - git
     - libglib2.0-dev
     - make
