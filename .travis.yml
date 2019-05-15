@@ -89,9 +89,9 @@ after_scripts:
 releases:
   draft: false
   prerelease: false
-  checksum: true
+  checksum: false
   file_glob: true
-  files: mate-backgrounds-*.tar.xz
+  files: _build/meson-dist/mate-backgrounds-*.tar.xz*
   github_release:
     tags: true
     overwrite: true
