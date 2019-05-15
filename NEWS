@@ -1,3 +1,12 @@
+### mate-backgrounds 1.23.0
+
+   * Translations update
+   * update makepot script
+   * enable meson build at travis-CI
+   * use meson build system
+   * Migrate from intltool to gettext
+   * provide releases at github
+
 ### mate-backgrounds 1.22.0
 
    * Initialize Travis CI support
