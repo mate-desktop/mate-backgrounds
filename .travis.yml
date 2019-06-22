@@ -82,16 +82,14 @@ after_scripts:
   -         bash ./debian.sh
   -     fi
   -     make distcheck
-  - else
-  -     ninja -C $BUILD_DIR dist
   - fi
 
 releases:
   draft: false
   prerelease: false
-  checksum: false
+  checksum: true
   file_glob: true
-  files: _build/meson-dist/mate-backgrounds-*.tar.xz*
+  files: mate-backgrounds-*.tar.xz
   github_release:
     tags: true
     overwrite: true
