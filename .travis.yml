@@ -16,7 +16,7 @@ install:
   - ./docker-build --name ${DISTRO} --config .travis.yml --install
 
 script:
-  - ./docker-build --name ${DISTRO} --verbose --config .travis.yml --build meson --build autotools
+  - ./docker-build --name ${DISTRO} --verbose --config .travis.yml --build meson --build scripts
 
 deploy:
   - provider: script
@@ -75,13 +75,20 @@ requires:
 variables:
   - CFLAGS="-Wall -Werror=format-security"
 
+build_scripts:
+  - ./autogen.sh
+  - sed -i 's/$(POFILES) $(GMOFILES) \\/$(POFILES) \\/' po/Makefile.in.in
+  - ./configure
+  - make
+
 after_scripts:
-  - if [ ${BUILD_TYPE} == "autotools" ];then
+  - if [ ${BUILD_TYPE} == "scripts" ];then
   -     if [ ${DISTRO_NAME} == "debian" ];then
   -         curl -Ls -o debian.sh https://github.com/mate-desktop/mate-dev-scripts/raw/master/travis/debian.sh
   -         bash ./debian.sh
   -     fi
   -     make distcheck
+  -     tar tf mate-backgrounds-*.tar.xz|grep po #just for view
   - fi
 
 releases:
