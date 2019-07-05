@@ -77,7 +77,6 @@ variables:
 
 build_scripts:
   - ./autogen.sh
-  - sed -i 's/$(POFILES) $(GMOFILES) \\/$(POFILES) \\/' po/Makefile.in.in
   - ./configure
   - make
 
