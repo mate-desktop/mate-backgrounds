@@ -1,5 +1,7 @@
 SUBDIRS = po abstract desktop nature
 
+ACLOCAL_AMFLAGS = -I m4 ${ACLOCAL_FLAGS}
+
 dist-hook:
 	@if test -d "$(srcdir)/.git"; \
 	then \
