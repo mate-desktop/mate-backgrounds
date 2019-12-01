@@ -73,7 +73,7 @@ requires:
     - meson
 
 variables:
-  - CFLAGS="-Wall -Werror=format-security"
+  - CFLAGS="-Wall -Werror=format-security -Wredundant-decls"
 
 build_scripts:
   - ./autogen.sh
