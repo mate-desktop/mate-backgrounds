@@ -1,3 +1,9 @@
+### mate-backgrounds 1.24.0
+
+   * Translations update
+   * build: don't override GETTEXT_PACKAGE if it's equal to PACKAGE_NAME
+   * Fix the error if have a newer version of gettext.
+
 ### mate-backgrounds 1.23.0
 
    * Translations update
