@@ -1,20 +1,20 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR MATE Desktop Environment team
+# This file is distributed under the same license as the mate-backgrounds package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Marko Šterman <marko.chamillionaire@gmail.com>, 2018
+# Arnold Marko <arnold.marko@gmail.com>, 2019
 # 
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MATE Desktop Environment\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-23 15:27+0100\n"
+"Project-Id-Version: mate-backgrounds 1.23.0\n"
+"Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
+"POT-Creation-Date: 2019-11-06 12:38+0100\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Marko Šterman <marko.chamillionaire@gmail.com>, 2018\n"
+"Last-Translator: Arnold Marko <arnold.marko@gmail.com>, 2019\n"
 "Language-Team: Slovenian (https://www.transifex.com/mate/teams/13566/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,120 +23,120 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 
 #. From http://code.google.com/p/gnome-colors/
-#: ../abstract/mate-abstract.xml.in.in.h:2
+#: abstract/mate-abstract.xml.in.in:6
 msgid "Arc"
 msgstr "Lok"
 
-#: ../abstract/mate-abstract.xml.in.in.h:3
+#: abstract/mate-abstract.xml.in.in:15
 msgid "Flow"
 msgstr "Tok"
 
-#: ../abstract/mate-abstract.xml.in.in.h:4
+#: abstract/mate-abstract.xml.in.in:25
 msgid "Gulp"
 msgstr "Gulp"
 
-#: ../abstract/mate-abstract.xml.in.in.h:5
+#: abstract/mate-abstract.xml.in.in:34
 msgid "Silk"
 msgstr "Svila"
 
-#: ../abstract/mate-abstract.xml.in.in.h:6
+#: abstract/mate-abstract.xml.in.in:43
 msgid "Spring"
 msgstr "Pomlad"
 
-#: ../abstract/mate-abstract.xml.in.in.h:7
+#: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
 msgstr "Valovanje"
 
-#: ../desktop/mate-desktop.xml.in.in.h:1
+#: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
 msgstr "Brez ozadja namizja"
 
-#: ../desktop/mate-desktop.xml.in.in.h:2
+#: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr ""
+msgstr "Plavaj v MATE"
 
-#: ../desktop/mate-desktop.xml.in.in.h:3
+#: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
 msgstr "Tradicionalno zelena"
 
-#: ../desktop/mate-desktop.xml.in.in.h:4
+#: desktop/mate-desktop.xml.in.in:25
 msgid "Stripes"
-msgstr "Trakovi"
+msgstr "Proge"
 
-#: ../desktop/mate-desktop.xml.in.in.h:5
+#: desktop/mate-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
-msgstr ""
+msgstr "MATE proge, temno"
 
-#: ../desktop/mate-desktop.xml.in.in.h:6
+#: desktop/mate-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
-msgstr ""
+msgstr "MATE proge, svetlo"
 
-#: ../desktop/mate-desktop.xml.in.in.h:7
+#: desktop/mate-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
-msgstr ""
+msgstr "Ubuntu MATE, hladno"
 
-#: ../desktop/mate-desktop.xml.in.in.h:8
+#: desktop/mate-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
-msgstr ""
+msgstr "Ubuntu MATE, temno"
 
-#: ../desktop/mate-desktop.xml.in.in.h:9
+#: desktop/mate-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
-msgstr ""
+msgstr "Ubuntu MATE, radioaktivno"
 
-#: ../desktop/mate-desktop.xml.in.in.h:10
+#: desktop/mate-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
-msgstr ""
+msgstr "Ubuntu MATE, toplo"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/mate-nature.xml.in.in.h:3
+#: nature/mate-nature.xml.in.in:7
 msgid "Fresh Flower"
-msgstr "Rožica"
+msgstr "Sveže rože"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/mate-nature.xml.in.in.h:6
+#: nature/mate-nature.xml.in.in:15
 msgid "Green Meadow"
 msgstr "Poljane"
 
-#: ../nature/mate-nature.xml.in.in.h:7
+#: nature/mate-nature.xml.in.in:21
 msgid "Aqua"
 msgstr "Voda"
 
-#: ../nature/mate-nature.xml.in.in.h:8
+#: nature/mate-nature.xml.in.in:27
 msgid "Dune"
 msgstr "Sipine"
 
-#: ../nature/mate-nature.xml.in.in.h:9
+#: nature/mate-nature.xml.in.in:33
 msgid "Storm"
 msgstr "Nevihta"
 
-#: ../nature/mate-nature.xml.in.in.h:10
+#: nature/mate-nature.xml.in.in:39
 msgid "Two Wings"
-msgstr "Krila"
+msgstr "Krili"
 
-#: ../nature/mate-nature.xml.in.in.h:11
+#: nature/mate-nature.xml.in.in:45
 msgid "Lady Bird"
 msgstr "Pikapolonica"
 
-#: ../nature/mate-nature.xml.in.in.h:12
+#: nature/mate-nature.xml.in.in:51
 msgid "Blinds"
 msgstr "Zavese"
 
-#: ../nature/mate-nature.xml.in.in.h:13
+#: nature/mate-nature.xml.in.in:57
 msgid "Rain Drops"
 msgstr "Kapljice"
 
-#: ../nature/mate-nature.xml.in.in.h:14
+#: nature/mate-nature.xml.in.in:63
 msgid "Yellow Flower"
 msgstr "Rumena roža"
 
-#: ../nature/mate-nature.xml.in.in.h:15
+#: nature/mate-nature.xml.in.in:69
 msgid "Garden"
 msgstr "Vrt"
 
-#: ../nature/mate-nature.xml.in.in.h:16
+#: nature/mate-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Les"

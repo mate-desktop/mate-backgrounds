@@ -4,9 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Xuacu Saturio <xuacusk8@gmail.com>, 2018
-# Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# Ḷḷumex03 <tornes@opmbx.org>, 2018
+# Caarmi, 2019
 # 
 msgid ""
 msgstr ""
@@ -14,112 +12,112 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
 "POT-Creation-Date: 2019-11-06 12:38+0100\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Ḷḷumex03 <tornes@opmbx.org>, 2018\n"
-"Language-Team: Asturian (https://www.transifex.com/mate/teams/13566/ast/)\n"
+"Last-Translator: Caarmi, 2019\n"
+"Language-Team: Interlingue (https://www.transifex.com/mate/teams/13566/ie/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ast\n"
+"Language: ie\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: abstract/mate-abstract.xml.in.in:6
 msgid "Arc"
-msgstr "Arcu"
+msgstr "Arc"
 
 #: abstract/mate-abstract.xml.in.in:15
 msgid "Flow"
-msgstr "Fluxu"
+msgstr "Flux"
 
 #: abstract/mate-abstract.xml.in.in:25
 msgid "Gulp"
-msgstr "Gulp"
+msgstr "Gluti"
 
 #: abstract/mate-abstract.xml.in.in:34
 msgid "Silk"
-msgstr "Seda"
+msgstr "Seta"
 
 #: abstract/mate-abstract.xml.in.in:43
 msgid "Spring"
-msgstr "Primavera"
+msgstr "Verne"
 
 #: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
-msgstr "Ondes"
+msgstr "Undes"
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
-msgstr "Ensin fondu d'escritoriu"
+msgstr "Null funde del Pupitre"
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr ""
+msgstr "Planea in MATE"
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
-msgstr "Verde Tradicional"
+msgstr "Verdi traditional"
 
 #: desktop/mate-desktop.xml.in.in:25
 msgid "Stripes"
-msgstr "Barres"
+msgstr "Stries"
 
 #: desktop/mate-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
-msgstr ""
+msgstr "MATE Stries obscur"
 
 #: desktop/mate-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
-msgstr ""
+msgstr "Stries lucid MATE"
 
 #: desktop/mate-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
-msgstr ""
+msgstr "Frigid Ubuntu MATE"
 
 #: desktop/mate-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
-msgstr ""
+msgstr "Obscur Ubuntu MATE"
 
 #: desktop/mate-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
-msgstr ""
+msgstr "Radioactiv Ubuntu MATE"
 
 #: desktop/mate-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
-msgstr ""
+msgstr "Calid Ubuntu MATE"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: nature/mate-nature.xml.in.in:7
 msgid "Fresh Flower"
-msgstr "Flor fresca"
+msgstr "Frisc flor"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: nature/mate-nature.xml.in.in:15
 msgid "Green Meadow"
-msgstr "Campu verde"
+msgstr "Verdi prate"
 
 #: nature/mate-nature.xml.in.in:21
 msgid "Aqua"
-msgstr "Augua"
+msgstr "Aqua"
 
 #: nature/mate-nature.xml.in.in:27
 msgid "Dune"
-msgstr "Duna"
+msgstr "Dune"
 
 #: nature/mate-nature.xml.in.in:33
 msgid "Storm"
-msgstr "Tuena"
+msgstr "Tempeste"
 
 #: nature/mate-nature.xml.in.in:39
 msgid "Two Wings"
-msgstr "Dos ales"
+msgstr "Du ales"
 
 #: nature/mate-nature.xml.in.in:45
 msgid "Lady Bird"
-msgstr "Reichín"
+msgstr "Coccinelle"
 
 #: nature/mate-nature.xml.in.in:51
 msgid "Blinds"
@@ -127,16 +125,16 @@ msgstr "Persianes"
 
 #: nature/mate-nature.xml.in.in:57
 msgid "Rain Drops"
-msgstr "Gotes d'augua"
+msgstr "Guttes de pluvie"
 
 #: nature/mate-nature.xml.in.in:63
 msgid "Yellow Flower"
-msgstr "Flor mariella"
+msgstr "Yelbi flor"
 
 #: nature/mate-nature.xml.in.in:69
 msgid "Garden"
-msgstr "Xardín"
+msgstr "Jardin"
 
 #: nature/mate-nature.xml.in.in:75
 msgid "Wood"
-msgstr "Madera"
+msgstr "Boscage"
