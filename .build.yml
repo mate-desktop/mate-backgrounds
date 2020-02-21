@@ -1,0 +1,69 @@
+##########################################################
+# THE FOLLOWING LINES IS USED BY docker-build
+##########################################################
+requires:
+  archlinux:
+    # Useful URL: https://git.archlinux.org/svntogit/community.git/tree/mate-backgrounds
+    - gcc
+    - git
+    - make
+    - mate-common
+    - meson
+    - which
+
+  debian:
+    # Useful URL: https://github.com/mate-desktop/debian-packages
+    # Useful URL: https://salsa.debian.org/debian-mate-team/mate-backgrounds
+    - autopoint
+    - git
+    - libglib2.0-dev
+    - make
+    - mate-common
+    - meson
+
+  fedora:
+    # Useful URL: https://src.fedoraproject.org/cgit/rpms/mate-backgrounds.git
+    - gcc
+    - git
+    - make
+    - mate-common
+    - meson
+    - redhat-rpm-config
+
+  ubuntu:
+    - autopoint
+    - git
+    - libglib2.0-dev
+    - make
+    - mate-common
+    - meson
+
+variables:
+  - CFLAGS="-Wall -Werror=format-security -Wredundant-decls"
+
+build_scripts:
+  - ./autogen.sh
+  - ./configure
+  - make
+
+after_scripts:
+  - if [ ${BUILD_TYPE} == "scripts" ];then
+  -     if [ ${DISTRO_NAME} == "debian" ];then
+  -         curl -Ls -o debian.sh https://github.com/mate-desktop/mate-dev-scripts/raw/master/travis/debian.sh
+  -         bash ./debian.sh
+  -     fi
+  -     make distcheck
+  - fi
+
+releases:
+  draft: false
+  prerelease: false
+  checksum: true
+  file_glob: true
+  files: mate-backgrounds-*.tar.xz
+  github_release:
+    tags: true
+    overwrite: true
+    base_version: 1.20.0
+    notify_servers:
+      - https://release.mate-desktop.org/release
