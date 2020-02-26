@@ -18,7 +18,10 @@ $(metadata_DATA): $(metadata_in_files)
 noinst_DATA = mate-abstract.xml.in
 CLEANFILES = mate-abstract.xml mate-abstract.xml.in
 
-EXTRA_DIST = $(background_DATA) mate-abstract.xml.in.in
+EXTRA_DIST = \
+	$(background_DATA) \
+	mate-abstract.xml.in.in \
+	meson.build
 
 mate-abstract.xml.in: mate-abstract.xml.in.in Makefile
 	$(AM_V_GEN)sed -e 's^\@datadir\@^$(datadir)^g' < $(srcdir)/mate-abstract.xml.in.in > mate-abstract.xml.in.tmp \
