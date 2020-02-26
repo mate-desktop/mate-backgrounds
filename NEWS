@@ -1,3 +1,8 @@
+### mate-backgrounds 1.24.1
+
+   * Translations update
+   * build: add meson config files to EXTRA_DIST
+
 ### mate-backgrounds 1.24.0
 
    * Translations update

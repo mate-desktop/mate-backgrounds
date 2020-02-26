@@ -1,5 +1,5 @@
 project('mate-backgrounds',
-  version : '1.24.0',
+  version : '1.24.1',
   meson_version: '>= 0.41.0'
   )
 
