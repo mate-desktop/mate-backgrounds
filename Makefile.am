@@ -20,7 +20,9 @@ dist-hook:
 
 EXTRA_DIST = \
 	its \
-	autogen.sh
+	autogen.sh \
+	meson.build \
+	po/meson.build
 
 MAINTAINERCLEANFILES = \
 	Makefile.in \
