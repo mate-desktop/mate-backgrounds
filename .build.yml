@@ -6,6 +6,7 @@ requires:
     # Useful URL: https://git.archlinux.org/svntogit/community.git/tree/mate-backgrounds
     - gcc
     - git
+    - intltool
     - make
     - mate-common
     - which
