@@ -6,7 +6,8 @@ background_DATA = \
 	Gulp.png \
 	Silk.png \
 	Spring.png \
-	Waves.png
+	Waves.png \
+	Beach.png
 
 metadata_in_files = mate-abstract.xml.in
 metadatadir = $(datadir)/mate-background-properties
