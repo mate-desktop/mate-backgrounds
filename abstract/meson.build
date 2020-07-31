@@ -20,5 +20,8 @@ backgrounds = [
   'Silk.png',
   'Spring.png',
   'Waves.png',
+  'Elephants.jpg',
+  'Elephants_3840x2160.jpg',
+  'Elephants_5640x3172.jpg'
   ]
 install_data(backgrounds, install_dir: join_paths(backgrounddir, 'abstract'))
