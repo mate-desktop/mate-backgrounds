@@ -6,7 +6,10 @@ background_DATA = \
 	Gulp.png \
 	Silk.png \
 	Spring.png \
-	Waves.png
+	Waves.png \
+	Elephants.jpg \
+	Elephants_3840x2160.jpg \
+	Elephants_5640x3172.jpg
 
 metadata_in_files = mate-abstract.xml.in
 metadatadir = $(datadir)/mate-background-properties
