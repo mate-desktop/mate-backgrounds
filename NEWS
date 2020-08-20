@@ -1,5 +1,9 @@
 ### mate-backgrounds 1.25.0
 
+  * Translations update
+  * Add 'Something slowly gets clear' elephants wallpaper. (#34)
+  * build: add meson config files to EXTRA_DIST
+
 ### mate-backgrounds 1.24.0
 
    * Translations update
