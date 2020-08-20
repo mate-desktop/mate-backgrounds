@@ -6,6 +6,7 @@
 # Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Cédric Valmary <cvalmary@yahoo.fr>, 2018
+# Quentin PAGÈS, 2020
 # 
 msgid ""
 msgstr ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
 "POT-Creation-Date: 2019-11-06 12:38+0100\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Cédric Valmary <cvalmary@yahoo.fr>, 2018\n"
+"Last-Translator: Quentin PAGÈS, 2020\n"
 "Language-Team: Occitan (post 1500) (https://www.transifex.com/mate/teams/13566/oc/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -48,7 +49,7 @@ msgstr "Ondas"
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Cap d’imatge de rèire-plan"
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
@@ -56,27 +57,27 @@ msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
-msgstr ""
+msgstr "Verd tradicional"
 
 #: desktop/mate-desktop.xml.in.in:25
 msgid "Stripes"
-msgstr ""
+msgstr "Raiaduras"
 
 #: desktop/mate-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
-msgstr ""
+msgstr "MATE raiaduras negras"
 
 #: desktop/mate-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
-msgstr ""
+msgstr "MATE raiaduras claras"
 
 #: desktop/mate-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
-msgstr ""
+msgstr "Ubuntu MATE fred"
 
 #: desktop/mate-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
-msgstr ""
+msgstr "Ubuntu MATE escur"
 
 #: desktop/mate-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
@@ -84,14 +85,14 @@ msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
-msgstr ""
+msgstr "Ubuntu MATE calorós"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: nature/mate-nature.xml.in.in:7
 msgid "Fresh Flower"
-msgstr ""
+msgstr "Flor fresca"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
@@ -126,7 +127,7 @@ msgstr ""
 
 #: nature/mate-nature.xml.in.in:57
 msgid "Rain Drops"
-msgstr ""
+msgstr "Gotetas de pluèja"
 
 #: nature/mate-nature.xml.in.in:63
 msgid "Yellow Flower"
