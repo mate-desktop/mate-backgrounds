@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.23.0\n"
+"Project-Id-Version: mate-backgrounds 1.25.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"POT-Creation-Date: 2020-08-20 15:03+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,6 +39,18 @@ msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
+msgstr ""
+
+#: abstract/mate-abstract.xml.in.in:61
+msgid "Something slowly gets clear"
+msgstr ""
+
+#: abstract/mate-abstract.xml.in.in:70
+msgid "Something slowly gets clear (3840x2160)"
+msgstr ""
+
+#: abstract/mate-abstract.xml.in.in:79
+msgid "Something slowly gets clear (5640x3172)"
 msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:5
