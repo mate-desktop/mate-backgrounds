@@ -18,6 +18,11 @@ dist-hook:
 		echo A git clone is required to generate a ChangeLog >&2; \
 	fi
 
+# we don't want to install mo files, all translations are already stored
+# in xml files
+install-data-local:
+	$(MAKE) -C po uninstall
+
 EXTRA_DIST = \
 	its \
 	autogen.sh \
