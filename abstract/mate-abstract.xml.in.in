@@ -67,7 +67,7 @@
 		<artist>Wyng Stancikaite</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Something slowly gets clear (3840x2160)</name>
+		<name>Something slowly gets clear</name>
 		<filename>@datadir@/backgrounds/mate/abstract/Elephants_3840x2160.jpg</filename>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#729FCF</pcolor>
@@ -76,7 +76,7 @@
 		<artist>Wyng Stancikaite</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Something slowly gets clear (5640x3172)</name>
+		<name>Something slowly gets clear</name>
 		<filename>@datadir@/backgrounds/mate/abstract/Elephants_5640x3172.jpg</filename>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#729FCF</pcolor>
