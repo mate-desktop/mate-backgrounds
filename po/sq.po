@@ -6,14 +6,15 @@
 # Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Indrit Bashkimi <indrit.bashkimi@gmail.com>, 2018
+# Ardit Dani <ardit.dani@gmail.com>, 2021
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.23.0\n"
+"Project-Id-Version: mate-backgrounds 1.25.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"POT-Creation-Date: 2021-06-20 12:58+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Indrit Bashkimi <indrit.bashkimi@gmail.com>, 2018\n"
+"Last-Translator: Ardit Dani <ardit.dani@gmail.com>, 2021\n"
 "Language-Team: Albanian (https://www.transifex.com/mate/teams/13566/sq/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +25,7 @@ msgstr ""
 #. From http://code.google.com/p/gnome-colors/
 #: abstract/mate-abstract.xml.in.in:6
 msgid "Arc"
-msgstr ""
+msgstr "Arc"
 
 #: abstract/mate-abstract.xml.in.in:15
 msgid "Flow"
@@ -46,13 +47,18 @@ msgstr "Pranverë"
 msgid "Waves"
 msgstr "Valë"
 
+#: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
+#: abstract/mate-abstract.xml.in.in:79
+msgid "Something slowly gets clear"
+msgstr "Diçka ngadalë bëhet e qartë"
+
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Asnjë Pamje Background"
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr ""
+msgstr "Noto në MATE"
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
@@ -60,31 +66,31 @@ msgstr "E gjelbër tradicionale"
 
 #: desktop/mate-desktop.xml.in.in:25
 msgid "Stripes"
-msgstr ""
+msgstr "Vija"
 
 #: desktop/mate-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
-msgstr ""
+msgstr "MATE Vija Zeza"
 
 #: desktop/mate-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
-msgstr ""
+msgstr "MATE Vija Lehta"
 
 #: desktop/mate-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
-msgstr ""
+msgstr "Ubuntu MATE Ftoftë"
 
 #: desktop/mate-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
-msgstr ""
+msgstr "Ubuntu MATE Zezë"
 
 #: desktop/mate-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
-msgstr ""
+msgstr "Ubuntu MATE Radioaktiv"
 
 #: desktop/mate-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
-msgstr ""
+msgstr "Ubuntu MATE Ngrohtë"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.

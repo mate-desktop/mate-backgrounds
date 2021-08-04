@@ -5,15 +5,16 @@
 # 
 # Translators:
 # Michael Steenbeek <m.o.steenbeek@gmail.com>, 2018
-# René Devers <rene.devers@gmail.com>, 2018
+# b9b0d258fa591da5350b6e67cf68cd68_9fecbb4 <28506b9ff23f99a34b566250ce31bbad_250479>, 2018
+# Pjotr <pjotrvertaalt@gmail.com>, 2020
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.23.0\n"
+"Project-Id-Version: mate-backgrounds 1.25.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"POT-Creation-Date: 2021-06-20 12:58+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: René Devers <rene.devers@gmail.com>, 2018\n"
+"Last-Translator: Pjotr <pjotrvertaalt@gmail.com>, 2020\n"
 "Language-Team: Dutch (https://www.transifex.com/mate/teams/13566/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,6 +46,11 @@ msgstr "Lente"
 #: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
 msgstr "Golven"
+
+#: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
+#: abstract/mate-abstract.xml.in.in:79
+msgid "Something slowly gets clear"
+msgstr "Langzaam wordt er iets helder"
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"

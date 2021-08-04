@@ -5,14 +5,15 @@
 # 
 # Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
+# Sai Vinoba <saivinoba@sumati.net>, 2020
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.23.0\n"
+"Project-Id-Version: mate-backgrounds 1.25.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"POT-Creation-Date: 2021-06-20 12:58+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>, 2018\n"
+"Last-Translator: Sai Vinoba <saivinoba@sumati.net>, 2020\n"
 "Language-Team: Kannada (https://www.transifex.com/mate/teams/13566/kn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +24,7 @@ msgstr ""
 #. From http://code.google.com/p/gnome-colors/
 #: abstract/mate-abstract.xml.in.in:6
 msgid "Arc"
-msgstr ""
+msgstr "ಆರ್ಕ್"
 
 #: abstract/mate-abstract.xml.in.in:15
 msgid "Flow"
@@ -39,51 +40,56 @@ msgstr "ರೇಷ್ಮೆ"
 
 #: abstract/mate-abstract.xml.in.in:43
 msgid "Spring"
-msgstr "ವಸಂತಋತು"
+msgstr "ವಸಂತ"
 
 #: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
 msgstr "ಅಲೆಗಳು"
 
+#: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
+#: abstract/mate-abstract.xml.in.in:79
+msgid "Something slowly gets clear"
+msgstr "ಸಂತಿಂಗ್ ಸ್ಲೋಲಿ ಗೆಟ್ಸ್ ಕ್ಲಿಯರ್ "
+
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
-msgstr "ಯಾವುದೆ ಗಣಕತೆರೆ ಹಿನ್ನಲೆ ಚಿತ್ರವಿಲ್ಲ"
+msgstr "ಯಾವುದೆ ಎಣಿಕತೆರೆ ಹಿನ್ನಲೆಚಿತ್ರವಿಲ್ಲ"
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr ""
+msgstr "ಫ್ಲೋಟ್ ಇನ್ಟು ಮಾಟೆ "
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
-msgstr ""
+msgstr "ಗ್ರೀನ್ ಟ್ರಡಿಶನಲ್"
 
 #: desktop/mate-desktop.xml.in.in:25
 msgid "Stripes"
-msgstr ""
+msgstr "ಪಟ್ಟೆಗಳು"
 
 #: desktop/mate-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
-msgstr ""
+msgstr "ಮಾಟೆ ಪಟ್ಟೆಗಳು ಕಪ್ಪು"
 
 #: desktop/mate-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
-msgstr ""
+msgstr "ಮಾಟೆ ಪಟ್ಟೆಗಳು ತಿಳಿ"
 
 #: desktop/mate-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
-msgstr ""
+msgstr "ಉಬುಂಟು ಮಾಟೆ ಕೋಲ್ಡ್"
 
 #: desktop/mate-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
-msgstr ""
+msgstr "ಉಬುಂಟು ಮಾಟೆ ಕಪ್ಪು"
 
 #: desktop/mate-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
-msgstr ""
+msgstr "ಉಬುಂಟು ಮಾಟೆ ರೆಡಿಯೋಆಕ್ಟಿವ್"
 
 #: desktop/mate-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
-msgstr ""
+msgstr "ಉಬುಂಟು ಮಾಟೆ ವಾರ್ಮ್"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.

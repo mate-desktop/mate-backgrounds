@@ -10,9 +10,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.23.0\n"
+"Project-Id-Version: mate-backgrounds 1.25.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"POT-Creation-Date: 2021-06-20 12:58+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
 "Last-Translator: Quentin PAGÈS, 2020\n"
 "Language-Team: Occitan (post 1500) (https://www.transifex.com/mate/teams/13566/oc/)\n"
@@ -33,7 +33,7 @@ msgstr "Flòt"
 
 #: abstract/mate-abstract.xml.in.in:25
 msgid "Gulp"
-msgstr ""
+msgstr "Golaud"
 
 #: abstract/mate-abstract.xml.in.in:34
 msgid "Silk"
@@ -47,13 +47,18 @@ msgstr "Prima"
 msgid "Waves"
 msgstr "Ondas"
 
+#: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
+#: abstract/mate-abstract.xml.in.in:79
+msgid "Something slowly gets clear"
+msgstr "Quicòm ven lentament clar"
+
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
 msgstr "Cap d’imatge de rèire-plan"
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr ""
+msgstr "Flotar pel MATE"
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
@@ -81,7 +86,7 @@ msgstr "Ubuntu MATE escur"
 
 #: desktop/mate-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
-msgstr ""
+msgstr "Ubuntu MATE Radioactiu"
 
 #: desktop/mate-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
@@ -123,7 +128,7 @@ msgstr "Galineta"
 
 #: nature/mate-nature.xml.in.in:51
 msgid "Blinds"
-msgstr ""
+msgstr "Persianas"
 
 #: nature/mate-nature.xml.in.in:57
 msgid "Rain Drops"

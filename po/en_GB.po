@@ -5,15 +5,15 @@
 # 
 # Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# Andi Chandler <andi@gowling.com>, 2018
+# Andi Chandler <andi@gowling.com>, 2021
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.23.0\n"
+"Project-Id-Version: mate-backgrounds 1.25.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"POT-Creation-Date: 2021-06-20 12:58+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Andi Chandler <andi@gowling.com>, 2018\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>, 2021\n"
 "Language-Team: English (United Kingdom) (https://www.transifex.com/mate/teams/13566/en_GB/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,6 +45,11 @@ msgstr "Spring"
 #: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
 msgstr "Waves"
+
+#: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
+#: abstract/mate-abstract.xml.in.in:79
+msgid "Something slowly gets clear"
+msgstr "Something slowly gets clear"
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"

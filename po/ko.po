@@ -5,14 +5,16 @@
 # 
 # Translators:
 # 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>, 2018
+# Seong-ho Cho <darkcircle.0426@gmail.com>, 2021
+# JungHee Lee <daemul72@gmail.com>, 2021
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.23.0\n"
+"Project-Id-Version: mate-backgrounds 1.25.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"POT-Creation-Date: 2021-06-20 12:58+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>, 2018\n"
+"Last-Translator: JungHee Lee <daemul72@gmail.com>, 2021\n"
 "Language-Team: Korean (https://www.transifex.com/mate/teams/13566/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,17 +47,22 @@ msgstr "스프링"
 msgid "Waves"
 msgstr "웨이브"
 
+#: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
+#: abstract/mate-abstract.xml.in.in:79
+msgid "Something slowly gets clear"
+msgstr "천천히 맑아짐"
+
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
 msgstr "배경화면 없음"
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr "마테에 띄우기"
+msgstr "MATE에 띄우기"
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
-msgstr "마테 전통 녹색"
+msgstr "MATE 전통 녹색"
 
 #: desktop/mate-desktop.xml.in.in:25
 msgid "Stripes"
@@ -63,27 +70,27 @@ msgstr "줄무늬"
 
 #: desktop/mate-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
-msgstr "마테 줄무늬 어둔 색"
+msgstr "MATE 줄무늬 어두운 색상"
 
 #: desktop/mate-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
-msgstr "마테 줄무늬 밝은 색"
+msgstr "MATE 줄무늬 밝은 색"
 
 #: desktop/mate-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
-msgstr "우분투 무테 콜드"
+msgstr "우분투 MATE 콜드"
 
 #: desktop/mate-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
-msgstr "우분투 마테 어둔 색"
+msgstr "우분투 MATE 어두운 색상"
 
 #: desktop/mate-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
-msgstr "우분투 마테 방사선형"
+msgstr "우분투 MATE 방사선형"
 
 #: desktop/mate-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
-msgstr "우분투 마테 따뜻한 색"
+msgstr "우분투 MATE 따뜻한 색"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.

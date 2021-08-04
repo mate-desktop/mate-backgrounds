@@ -5,14 +5,15 @@
 # 
 # Translators:
 # Allan Nordhøy <epost@anotheragency.no>, 2018
+# heskjestad <cato@heskjestad.xyz>, 2020
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.23.0\n"
+"Project-Id-Version: mate-backgrounds 1.25.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"POT-Creation-Date: 2021-06-20 12:58+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>, 2018\n"
+"Last-Translator: heskjestad <cato@heskjestad.xyz>, 2020\n"
 "Language-Team: Norwegian Bokmål (https://www.transifex.com/mate/teams/13566/nb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,6 +45,11 @@ msgstr "Vår"
 #: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
 msgstr "Bølger"
+
+#: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
+#: abstract/mate-abstract.xml.in.in:79
+msgid "Something slowly gets clear"
+msgstr "Noe blir sakte klart"
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
