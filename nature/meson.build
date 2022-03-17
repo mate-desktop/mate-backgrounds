@@ -1,6 +1,6 @@
 # replace @datadir@ and translate
 metadata = 'mate-nature.xml'
-i18n.merge_file(metadata,
+i18n.merge_file(
   input: configure_file(
     input: metadata + '.in.in',
     output: metadata + '.in',
