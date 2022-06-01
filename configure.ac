@@ -9,10 +9,11 @@ AM_GNU_GETTEXT([external])
 
 AM_MAINTAINER_MODE
 
-AC_OUTPUT([
+AC_CONFIG_FILES([
 Makefile
 abstract/Makefile
 desktop/Makefile
 nature/Makefile
 po/Makefile.in
 ])
+AC_OUTPUT
