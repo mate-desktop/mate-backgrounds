@@ -6,15 +6,15 @@
 # Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
 # Marko Šterman <marko.chamillionaire@gmail.com>, 2018
-# Arnold Marko <arnold.marko@gmail.com>, 2019
+# Arnold Marko <arnold.marko@gmail.com>, 2021
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.25.0\n"
+"Project-Id-Version: mate-backgrounds 1.26.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2021-06-20 12:58+0200\n"
+"POT-Creation-Date: 2022-10-29 15:33+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Arnold Marko <arnold.marko@gmail.com>, 2019\n"
+"Last-Translator: Arnold Marko <arnold.marko@gmail.com>, 2021\n"
 "Language-Team: Slovenian (https://www.transifex.com/mate/teams/13566/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -50,7 +50,7 @@ msgstr "Valovanje"
 #: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
 #: abstract/mate-abstract.xml.in.in:79
 msgid "Something slowly gets clear"
-msgstr ""
+msgstr "Nekaj se počasti čisti"
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"

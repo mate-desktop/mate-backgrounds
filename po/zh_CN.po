@@ -5,15 +5,15 @@
 # 
 # Translators:
 # Mingcong Bai <jeffbai@aosc.xyz>, 2018
-# liulitchi <xingzuo88@qq.com>, 2021
+# Wenbin Lv <wenbin816@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.25.0\n"
+"Project-Id-Version: mate-backgrounds 1.26.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2021-06-20 12:58+0200\n"
+"POT-Creation-Date: 2022-10-29 15:33+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: liulitchi <xingzuo88@qq.com>, 2021\n"
+"Last-Translator: Wenbin Lv <wenbin816@gmail.com>, 2022\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/mate/teams/13566/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,32 +24,32 @@ msgstr ""
 #. From http://code.google.com/p/gnome-colors/
 #: abstract/mate-abstract.xml.in.in:6
 msgid "Arc"
-msgstr "弧"
+msgstr "弧线"
 
 #: abstract/mate-abstract.xml.in.in:15
 msgid "Flow"
-msgstr "谜"
+msgstr "涌动"
 
 #: abstract/mate-abstract.xml.in.in:25
 msgid "Gulp"
-msgstr "茫"
+msgstr "畅饮"
 
 #: abstract/mate-abstract.xml.in.in:34
 msgid "Silk"
-msgstr "丝"
+msgstr "丝绸"
 
 #: abstract/mate-abstract.xml.in.in:43
 msgid "Spring"
-msgstr "涌"
+msgstr "春天"
 
 #: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
-msgstr "影"
+msgstr "波浪"
 
 #: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
 #: abstract/mate-abstract.xml.in.in:79
 msgid "Something slowly gets clear"
-msgstr "越来越清晰"
+msgstr "初见端倪"
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
@@ -57,7 +57,7 @@ msgstr "无桌面背景"
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr "浮入 MATE"
+msgstr "浮现于 MATE"
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
@@ -73,7 +73,7 @@ msgstr "暗色 MATE 条纹"
 
 #: desktop/mate-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
-msgstr "淡色 MATE 条纹"
+msgstr "浅色 MATE 条纹"
 
 #: desktop/mate-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
@@ -103,35 +103,35 @@ msgstr "鲜花"
 #. You might want to translate it into the equivalent words of your language
 #: nature/mate-nature.xml.in.in:15
 msgid "Green Meadow"
-msgstr "生机"
+msgstr "绿草"
 
 #: nature/mate-nature.xml.in.in:21
 msgid "Aqua"
-msgstr "激起"
+msgstr "水"
 
 #: nature/mate-nature.xml.in.in:27
 msgid "Dune"
-msgstr "盼望"
+msgstr "沙丘"
 
 #: nature/mate-nature.xml.in.in:33
 msgid "Storm"
-msgstr "阴郁"
+msgstr "风暴"
 
 #: nature/mate-nature.xml.in.in:39
 msgid "Two Wings"
-msgstr "远方"
+msgstr "双翼"
 
 #: nature/mate-nature.xml.in.in:45
 msgid "Lady Bird"
-msgstr "安然"
+msgstr "瓢虫"
 
 #: nature/mate-nature.xml.in.in:51
 msgid "Blinds"
-msgstr "絮语"
+msgstr "百叶窗"
 
 #: nature/mate-nature.xml.in.in:57
 msgid "Rain Drops"
-msgstr "晨露"
+msgstr "雨露"
 
 #: nature/mate-nature.xml.in.in:63
 msgid "Yellow Flower"
@@ -139,7 +139,7 @@ msgstr "黄花"
 
 #: nature/mate-nature.xml.in.in:69
 msgid "Garden"
-msgstr "绽放"
+msgstr "花园"
 
 #: nature/mate-nature.xml.in.in:75
 msgid "Wood"
