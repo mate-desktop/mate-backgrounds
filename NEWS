@@ -1,3 +1,10 @@
+### mate-backgrounds 1.27.0
+
+  * tx: sync with transifex
+  * tx: update resource
+  * tx: migrate config file
+  * Fix build with meson 0.61
+
 ### mate-backgrounds 1.26.0
 
   * Translations update
