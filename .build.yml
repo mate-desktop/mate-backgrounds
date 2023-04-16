@@ -47,6 +47,7 @@ build_scripts:
   - make
 
 after_scripts:
+  - git config --global --add safe.directory /rootdir
   - if [ ${BUILD_TYPE} == "scripts" ];then
   -     make distcheck
   - fi
