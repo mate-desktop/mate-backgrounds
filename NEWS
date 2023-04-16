@@ -1,3 +1,9 @@
+### mate-backgrounds 1.27.1
+
+  * fix releasing with travis-ci
+  * travis-CI: mark rootdir as save
+  * build warning: AC_OUTPUT should be used without arguments
+
 ### mate-backgrounds 1.27.0
 
   * tx: sync with transifex
