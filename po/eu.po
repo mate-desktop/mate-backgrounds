@@ -6,6 +6,7 @@
 # Translators:
 # Asier Iturralde Sarasola <asier.iturralde@gmail.com>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
+# Alexander Gabilondo <alexgabi@disroot.org>, 2024
 # 
 msgid ""
 msgstr ""
@@ -13,8 +14,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
 "POT-Creation-Date: 2022-10-29 15:33+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>, 2018\n"
-"Language-Team: Basque (https://www.transifex.com/mate/teams/13566/eu/)\n"
+"Last-Translator: Alexander Gabilondo <alexgabi@disroot.org>, 2024\n"
+"Language-Team: Basque (https://app.transifex.com/mate/teams/13566/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -49,7 +50,7 @@ msgstr "Uhinak"
 #: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
 #: abstract/mate-abstract.xml.in.in:79
 msgid "Something slowly gets clear"
-msgstr ""
+msgstr "Zerbait argitzen doa poliki"
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
@@ -57,7 +58,7 @@ msgstr "Mahaigaineko atzeko planorik ez"
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr ""
+msgstr "Flotatu MATE-n"
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"

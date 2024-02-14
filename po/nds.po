@@ -5,7 +5,7 @@
 # 
 # Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# Benedikt Straub <benedikt-straub@web.de>, 2019
+# Benedikt Straub <benedikt-straub@web.de>, 2023
 # 
 msgid ""
 msgstr ""
@@ -13,8 +13,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
 "POT-Creation-Date: 2022-10-29 15:33+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Benedikt Straub <benedikt-straub@web.de>, 2019\n"
-"Language-Team: Low German (https://www.transifex.com/mate/teams/13566/nds/)\n"
+"Last-Translator: Benedikt Straub <benedikt-straub@web.de>, 2023\n"
+"Language-Team: Low German (https://app.transifex.com/mate/teams/13566/nds/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -49,7 +49,7 @@ msgstr "Wellen"
 #: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
 #: abstract/mate-abstract.xml.in.in:79
 msgid "Something slowly gets clear"
-msgstr ""
+msgstr "Wat word sachtjes klaar"
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
