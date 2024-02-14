@@ -1,3 +1,7 @@
+### mate-backgrounds 1.28.0
+
+  * Translations update
+
 ### mate-backgrounds 1.27.1
 
   * fix releasing with travis-ci
@@ -6,7 +10,7 @@
 
 ### mate-backgrounds 1.27.0
 
-  * tx: sync with transifex
+  * Translations update
   * tx: update resource
   * tx: migrate config file
   * Fix build with meson 0.61
