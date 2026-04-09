@@ -4,8 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Allan Nordhøy <epost@anotheragency.no>, 2018
-# heskjestad, 2020
+# Transifex Bot <>, 2026
 # 
 msgid ""
 msgstr ""
@@ -13,134 +12,134 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
 "POT-Creation-Date: 2022-10-29 15:33+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: heskjestad, 2020\n"
-"Language-Team: Norwegian Bokmål (https://app.transifex.com/mate/teams/13566/nb/)\n"
+"Last-Translator: Transifex Bot <>, 2026\n"
+"Language-Team: Faroese (https://app.transifex.com/mate/teams/13566/fo/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nb\n"
+"Language: fo\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: abstract/mate-abstract.xml.in.in:6
 msgid "Arc"
-msgstr "Arc"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:15
 msgid "Flow"
-msgstr "Flyt"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:25
 msgid "Gulp"
-msgstr "Gulp"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:34
 msgid "Silk"
-msgstr "Silke"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:43
 msgid "Spring"
-msgstr "Vår"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
-msgstr "Bølger"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
 #: abstract/mate-abstract.xml.in.in:79
 msgid "Something slowly gets clear"
-msgstr "Noe blir sakte klart"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
-msgstr "Ingen skrivebordsbakgrunn"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr "Flyt inn i MATE"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
-msgstr "Tradisjonell grønn"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:25
 msgid "Stripes"
-msgstr "Striper"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
-msgstr "MATE mørke striper"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
-msgstr "MATE lyse striper"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
-msgstr "Ubuntu MATE kald"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
-msgstr "Ubuntu MATE mørk"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
-msgstr "Ubuntu MATE radioaktiv"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
-msgstr "Ubuntu MATE varm"
+msgstr ""
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: nature/mate-nature.xml.in.in:7
 msgid "Fresh Flower"
-msgstr "Frisk blomst"
+msgstr ""
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: nature/mate-nature.xml.in.in:15
 msgid "Green Meadow"
-msgstr "Grønn eng"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:21
 msgid "Aqua"
-msgstr "Vann"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:27
 msgid "Dune"
-msgstr "Dyne"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:33
 msgid "Storm"
-msgstr "Storm"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:39
 msgid "Two Wings"
-msgstr "To vinger"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:45
 msgid "Lady Bird"
-msgstr "Marihøne"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:51
 msgid "Blinds"
-msgstr "Blendere"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:57
 msgid "Rain Drops"
-msgstr "Regndråper"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:63
 msgid "Yellow Flower"
-msgstr "Gul blomst"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:69
 msgid "Garden"
-msgstr "Hage"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:75
 msgid "Wood"
-msgstr "Tre"
+msgstr ""
