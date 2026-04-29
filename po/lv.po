@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Rihards Priedītis <rprieditis@gmail.com>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
+# Rihards Priedītis <rprieditis@gmail.com>, 2025
 # 
 msgid ""
 msgstr ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
 "POT-Creation-Date: 2022-10-29 15:33+0200\n"
 "PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>, 2018\n"
+"Last-Translator: Rihards Priedītis <rprieditis@gmail.com>, 2025\n"
 "Language-Team: Latvian (https://app.transifex.com/mate/teams/13566/lv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,7 +49,7 @@ msgstr "Viļņi"
 #: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
 #: abstract/mate-abstract.xml.in.in:79
 msgid "Something slowly gets clear"
-msgstr ""
+msgstr "Kaut kas pamazām top skaidrs"
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
@@ -57,7 +57,7 @@ msgstr "Nav darbvirsmas fona"
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr ""
+msgstr "Ieplūst tajā MATE"
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
@@ -69,27 +69,27 @@ msgstr "Strīpas"
 
 #: desktop/mate-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
-msgstr ""
+msgstr "MATE Tumšās Strīpas"
 
 #: desktop/mate-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
-msgstr ""
+msgstr "MATE Gaišās Strīpas"
 
 #: desktop/mate-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
-msgstr ""
+msgstr "Ubuntu MATE Aukstais"
 
 #: desktop/mate-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
-msgstr ""
+msgstr "Ubuntu MATE Tumšais"
 
 #: desktop/mate-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
-msgstr ""
+msgstr "Ubuntu MATE Radioaktīvais"
 
 #: desktop/mate-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
-msgstr ""
+msgstr "Ubuntu MATE Siltais"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
