@@ -1,51 +1,48 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
 # This file is distributed under the same license as the mate-backgrounds package.
-# Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026.
-#
-# Translators:
-#
+# ButterflyOfFire <butterflyoffire@users.noreply.translate.fedoraproject.org>, 2026.
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.26.0\n"
+"Project-Id-Version: mate-backgrounds 1.28.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
-"POT-Creation-Date: 2022-10-29 15:33+0200\n"
-"PO-Revision-Date: 2026-06-24 04:17+0000\n"
-"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
-"Language-Team: Georgian <https://translate.fedoraproject.org/projects/mate-"
-"desktop/applications/mate-backgrounds/ka/>\n"
-"Language: ka\n"
+"POT-Creation-Date: 2021-03-06 20:22+0100\n"
+"PO-Revision-Date: 2026-06-10 19:01+0000\n"
+"Last-Translator: ButterflyOfFire "
+"<butterflyoffire@users.noreply.translate.fedoraproject.org>\n"
+"Language-Team: Kabyle <https://translate.fedoraproject.org/projects/mate-"
+"desktop/mate-backgrounds/kab/>\n"
+"Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 2026.6.1\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: abstract/mate-abstract.xml.in.in:6
 msgid "Arc"
-msgstr "რკალი"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:15
 msgid "Flow"
-msgstr "დინება"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:25
 msgid "Gulp"
-msgstr "ყლუპი"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:34
 msgid "Silk"
-msgstr "აბრეშუმი"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:43
 msgid "Spring"
-msgstr "გაზაფხული"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
-msgstr "ტალღები"
+msgstr ""
 
 #: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
 #: abstract/mate-abstract.xml.in.in:79
@@ -54,19 +51,19 @@ msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:5
 msgid "No Desktop Background"
-msgstr ""
+msgstr "Ulac agilal n deffir n tnarit"
 
 #: desktop/mate-desktop.xml.in.in:13
 msgid "Float into MATE"
-msgstr ""
+msgstr "Afeg deg MATE"
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
-msgstr "მწვანე ტრადიციული"
+msgstr "Adal amensay"
 
 #: desktop/mate-desktop.xml.in.in:25
 msgid "Stripes"
-msgstr "ზოლები"
+msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
@@ -78,61 +75,59 @@ msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
-msgstr ""
+msgstr "Ubuntu MATE Asemmiḍ"
 
 #: desktop/mate-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
-msgstr ""
+msgstr "Ubuntu MATE Ubrik"
 
 #: desktop/mate-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
-msgstr ""
+msgstr "Ubuntu MATE Radioactive"
 
 #: desktop/mate-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
 msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows an
-#. orange/red flower.
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: nature/mate-nature.xml.in.in:7
 msgid "Fresh Flower"
-msgstr "ცინცხალი ყვავილი"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a
-#. green meadow.
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: nature/mate-nature.xml.in.in:15
 msgid "Green Meadow"
-msgstr "მწვანე მდელო"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:21
 msgid "Aqua"
-msgstr "წყალი"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:27
 msgid "Dune"
-msgstr "დიუნა"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:33
 msgid "Storm"
-msgstr "შტორმი"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:39
 msgid "Two Wings"
-msgstr "ორი ფრთა"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:45
 msgid "Lady Bird"
-msgstr "ჭიამაია"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:51
 msgid "Blinds"
-msgstr "ჟალუზი"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:57
 msgid "Rain Drops"
-msgstr "წვიმის წვეთები"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:63
 msgid "Yellow Flower"
@@ -140,8 +135,8 @@ msgstr ""
 
 #: nature/mate-nature.xml.in.in:69
 msgid "Garden"
-msgstr "ბაღი"
+msgstr ""
 
 #: nature/mate-nature.xml.in.in:75
 msgid "Wood"
-msgstr "შეშა"
+msgstr ""
