@@ -1,49 +1,51 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
 # This file is distributed under the same license as the mate-backgrounds package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
-# Translators:
 # Stefano Karapetsas <stefano@karapetsas.com>, 2018
-# 
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026.
+#
+# Translators:
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: mate-backgrounds 1.26.0\n"
 "Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
 "POT-Creation-Date: 2022-10-29 15:33+0200\n"
-"PO-Revision-Date: 2018-03-11 16:27+0000\n"
-"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>, 2018\n"
-"Language-Team: Georgian (https://app.transifex.com/mate/teams/13566/ka/)\n"
+"PO-Revision-Date: 2026-06-24 04:17+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://translate.fedoraproject.org/projects/mate-"
+"desktop/applications/mate-backgrounds/ka/>\n"
+"Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ka\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: abstract/mate-abstract.xml.in.in:6
 msgid "Arc"
-msgstr ""
+msgstr "რკალი"
 
 #: abstract/mate-abstract.xml.in.in:15
 msgid "Flow"
-msgstr ""
+msgstr "დინება"
 
 #: abstract/mate-abstract.xml.in.in:25
 msgid "Gulp"
-msgstr ""
+msgstr "ყლუპი"
 
 #: abstract/mate-abstract.xml.in.in:34
 msgid "Silk"
-msgstr ""
+msgstr "აბრეშუმი"
 
 #: abstract/mate-abstract.xml.in.in:43
 msgid "Spring"
-msgstr ""
+msgstr "გაზაფხული"
 
 #: abstract/mate-abstract.xml.in.in:52
 msgid "Waves"
-msgstr ""
+msgstr "ტალღები"
 
 #: abstract/mate-abstract.xml.in.in:61 abstract/mate-abstract.xml.in.in:70
 #: abstract/mate-abstract.xml.in.in:79
@@ -60,11 +62,11 @@ msgstr ""
 
 #: desktop/mate-desktop.xml.in.in:19
 msgid "Green Traditional"
-msgstr ""
+msgstr "მწვანე ტრადიციული"
 
 #: desktop/mate-desktop.xml.in.in:25
 msgid "Stripes"
-msgstr ""
+msgstr "ზოლები"
 
 #: desktop/mate-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
@@ -106,31 +108,31 @@ msgstr "მწვანე მდელო"
 
 #: nature/mate-nature.xml.in.in:21
 msgid "Aqua"
-msgstr ""
+msgstr "წყალი"
 
 #: nature/mate-nature.xml.in.in:27
 msgid "Dune"
-msgstr ""
+msgstr "დიუნა"
 
 #: nature/mate-nature.xml.in.in:33
 msgid "Storm"
-msgstr ""
+msgstr "შტორმი"
 
 #: nature/mate-nature.xml.in.in:39
 msgid "Two Wings"
-msgstr ""
+msgstr "ორი ფრთა"
 
 #: nature/mate-nature.xml.in.in:45
 msgid "Lady Bird"
-msgstr ""
+msgstr "ჭიამაია"
 
 #: nature/mate-nature.xml.in.in:51
 msgid "Blinds"
-msgstr ""
+msgstr "ჟალუზი"
 
 #: nature/mate-nature.xml.in.in:57
 msgid "Rain Drops"
-msgstr ""
+msgstr "წვიმის წვეთები"
 
 #: nature/mate-nature.xml.in.in:63
 msgid "Yellow Flower"
@@ -138,8 +140,8 @@ msgstr ""
 
 #: nature/mate-nature.xml.in.in:69
 msgid "Garden"
-msgstr ""
+msgstr "ბაღი"
 
 #: nature/mate-nature.xml.in.in:75
 msgid "Wood"
-msgstr ""
+msgstr "შეშა"
